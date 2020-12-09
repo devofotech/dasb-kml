@@ -1,0 +1,2725 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+<Document>
+  <!-- Begin Style Definitions -->
+  <Style id="point1">
+    <IconStyle><Icon>kml_symbol_restaurant_0.png</Icon></IconStyle>
+  </Style>
+  <Folder>
+    <name>Point Features</name>
+    <description>Point Features</description>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Kota Bharu<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = No. 3950A (corner) & 3950B (intermediate, Jalan Padang Garong, Bandar Kota Bharu, 15000 Kota Bharu, Kelantan<BR><B>LATITUDE</B> = 6.1280849<BR><B>LONGITUDE</B> = 102.2412717]]></description>
+      <name>Pizza Hut Kota Bharu</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>102.2412717000,6.1280849000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Restaurant KB Mall, Kota Bharu, Kelantan.<BR><B>PHONE_NO</B> = 019-237 2193<BR><B>ADDRESS</B> = Jln Sultan Ibrahim, Bandar Kota Bharu, 15050 Kota Bharu, Kelantan<BR><B>LATITUDE</B> = 6.1172576<BR><B>LONGITUDE</B> = 102.2416555]]></description>
+      <name>Pizza Hut Restaurant KB Mall, Kota Bharu, Kelantan.</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>102.2416555000,6.1172576000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Kubang Kerian<BR><B>PHONE_NO</B> = 019-237 2195<BR><B>ADDRESS</B> = 8;;9, Jalan Raja Perempuan Zainab 2, Bandar Baru Kubang Kerian, 15200 Kota Bharu, Kelantan<BR><B>LATITUDE</B> = 6.0973696<BR><B>LONGITUDE</B> = 102.2787891]]></description>
+      <name>Pizza Hut Kubang Kerian</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>102.2787891000,6.0973696000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Pengkalan Chepa<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Jalan Bendahara 2/36, Taman Bendahara, 16100 Kota Bharu, Kelantan<BR><B>LATITUDE</B> = 6.1642649<BR><B>LONGITUDE</B> = 102.2813446]]></description>
+      <name>Pizza Hut Pengkalan Chepa</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>102.2813446000,6.1642649000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut<BR><B>PHONE_NO</B> = 019-653 2258<BR><B>ADDRESS</B> = Kota Kenangan, Jalan Abdul Kadir Adabi, Taman Kenangan, 15200 Kota Bharu, Kelantan<BR><B>LATITUDE</B> = 6.1240789<BR><B>LONGITUDE</B> = 102.2671312]]></description>
+      <name>Pizza Hut</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>102.2671312000,6.1240789000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Aeon Mall Kota Bharu<BR><B>PHONE_NO</B> = 09-632 5483<BR><B>ADDRESS</B> = Kampung Sireh, 15050 Kota Bharu, Kelantan<BR><B>LATITUDE</B> = 6.1108805<BR><B>LONGITUDE</B> = 102.2307339]]></description>
+      <name>Pizza Hut Aeon Mall Kota Bharu</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>102.2307339000,6.1108805000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Kuala Krai<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Laluan Persekutuan 8, Guchil, 18000 Kuala Krai, Kelantan<BR><B>LATITUDE</B> = 5.5464328<BR><B>LONGITUDE</B> = 102.2000787]]></description>
+      <name>Pizza Hut Kuala Krai</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>102.2000787000,5.5464328000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Delivery<BR><B>PHONE_NO</B> = 019-653 5422<BR><B>ADDRESS</B> = Asian Highway 18, Pasir Puteh, 16800 Pasir Puteh, Kelantan<BR><B>LATITUDE</B> = 5.8359677<BR><B>LONGITUDE</B> = 102.402155]]></description>
+      <name>Pizza Hut Delivery</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>102.4021550000,5.8359677000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut G-Orange Mall<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = GF- 4, Ground Floor, Wisma G- Orange, Batu 4 ½, Tunjung, Jalan Kuala Krai, 15050 Kota Bharu, Kelantan<BR><B>LATITUDE</B> = 6.0664163<BR><B>LONGITUDE</B> = 102.2385732]]></description>
+      <name>Pizza Hut G-Orange Mall</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>102.2385732000,6.0664163000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = 12, Jalan Dato Keramat, 16200 Tumpat, Kelantan<BR><B>LATITUDE</B> = 6.1856436<BR><B>LONGITUDE</B> = 102.1678131]]></description>
+      <name>Pizza Hut</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>102.1678131000,6.1856436000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Delivery Putrajaya<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = 80G, Jalan Diplomatik 1, Precint 15, 62200 Putrajaya, Wilayah Persekutuan Putrajaya<BR><B>LATITUDE</B> = 2.945921<BR><B>LONGITUDE</B> = 101.7243351]]></description>
+      <name>Pizza Hut Delivery Putrajaya</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.7243351000,2.9459210000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Restaurant<BR><B>PHONE_NO</B> = 016-745 7062<BR><B>ADDRESS</B> = Cyberjaya, 63000 Cyberjaya, Selangor<BR><B>LATITUDE</B> = 2.9231995<BR><B>LONGITUDE</B> = 101.663425]]></description>
+      <name>Pizza Hut Restaurant</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.6634250000,2.9231995000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut @ IOI City Mall<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Ioi Resort, 62502 Putrajaya, Selangor<BR><B>LATITUDE</B> = 2.969499<BR><B>LONGITUDE</B> = 101.711449]]></description>
+      <name><![CDATA[Pizza Hut @ IOI City Mall]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.7114490000,2.9694990000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Cyber Valley, Dengkil<BR><B>PHONE_NO</B> = 012-353 5966<BR><B>ADDRESS</B> = 43800 Dengkil, Selangor<BR><B>LATITUDE</B> = 2.8783248<BR><B>LONGITUDE</B> = 101.6658338]]></description>
+      <name>Pizza Hut Cyber Valley, Dengkil</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.6658338000,2.8783248000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Presint 8<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Bazaar@8, No.18, Jalan Seluang P8/7, Presint 8, 62100 Putrajaya<BR><B>LATITUDE</B> = 2.9320897<BR><B>LONGITUDE</B> = 101.6809882]]></description>
+      <name>Pizza Hut Presint 8</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.6809882000,2.9320897000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Express<BR><B>PHONE_NO</B> = 019-653 4236<BR><B>ADDRESS</B> = Cyberjaya, 63000 Cyberjaya, Selangor<BR><B>LATITUDE</B> = 2.9218343<BR><B>LONGITUDE</B> = 101.6510491]]></description>
+      <name>Pizza Hut Express</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.6510491000,2.9218343000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut KIP Mall<BR><B>PHONE_NO</B> = 03-6258 8019<BR><B>ADDRESS</B> = Jalan Kemajuan, Kawasan Perusahaan Bangi, 43650 Bandar Baru Bangi, Selangor<BR><B>LATITUDE</B> = 2.953059<BR><B>LONGITUDE</B> = 101.75728]]></description>
+      <name>Pizza Hut KIP Mall</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.7572800000,2.9530590000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Sri Bangi<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = No. 37, Jalan 3/85, Seri, Persiaran Bangi, Seksyen 8, 43650 Bandar Baru Bangi, Selangor<BR><B>LATITUDE</B> = 2.963856<BR><B>LONGITUDE</B> = 101.7634659]]></description>
+      <name>Pizza Hut Sri Bangi</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.7634659000,2.9638560000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Plaza Kota Raya<BR><B>PHONE_NO</B> = <BR><B>ADDRESS</B> = LG-02 & 03, Jalan Trus, Bandar Johor Bahru, 80000 Johor Bahru, Johor<BR><B>LATITUDE</B> = 1.4589367<BR><B>LONGITUDE</B> = 103.7634214]]></description>
+      <name>Pizza Hut Plaza Kota Raya</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>103.7634214000,1.4589367000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut<BR><B>PHONE_NO</B> = 07-332 9584<BR><B>ADDRESS</B> = Lot LG-36, KSL City, Jalan Serigala, Taman Abad, 80250 Johor Bahru, Johor<BR><B>LATITUDE</B> = 1.4861949<BR><B>LONGITUDE</B> = 103.7619936]]></description>
+      <name>Pizza Hut</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>103.7619936000,1.4861949000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut<BR><B>PHONE_NO</B> = 07-554 3601<BR><B>ADDRESS</B> = 131, Jl. Nb2 2/2, Taman Nusa Bestari 2, 81300 Skudai, Johor<BR><B>LATITUDE</B> = 1.4941156<BR><B>LONGITUDE</B> = 103.6558834]]></description>
+      <name>Pizza Hut</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>103.6558834000,1.4941156000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Terminal Larkin<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = PBT 17639-A, Jalan Kenyalang, Larkin Jaya, 82350 Johor Bahru, Johor<BR><B>LATITUDE</B> = 1.4950069<BR><B>LONGITUDE</B> = 103.7437366]]></description>
+      <name>Pizza Hut Terminal Larkin</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>103.7437366000,1.4950069000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Bandar Sri Alam<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = No.6, Ground Floor, Jalan Suria 2, Bandar Baru Seri Alam, 81750 Masai, Johor<BR><B>LATITUDE</B> = 1.4941148<BR><B>LONGITUDE</B> = 103.8738348]]></description>
+      <name>Pizza Hut Bandar Sri Alam</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>103.8738348000,1.4941148000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Damansara Aliff<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Lot 101091 & 101092, Jalan Tampoi, Taman Damansara Aliff, 81200 Johor Bahru, Johor<BR><B>LATITUDE</B> = 1.5102276<BR><B>LONGITUDE</B> = 103.7245107]]></description>
+      <name>Pizza Hut Damansara Aliff</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>103.7245107000,1.5102276000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Stadium Larkin<BR><B>PHONE_NO</B> = <BR><B>ADDRESS</B> = Stadium Tan Sri Dato' Hj Hassan Yunos, Larkin, 80350 Johor Bahru, Johor<BR><B>LATITUDE</B> = 1.4976131<BR><B>LONGITUDE</B> = 103.7521162]]></description>
+      <name>Pizza Hut Stadium Larkin</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>103.7521162000,1.4976131000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Permas Jaya<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = No.1, Lot G31 Ground Floor, Jusco Permas Jaya Shopping Center, Jalan Permas Utara, 81750 Masai, Johor<BR><B>LATITUDE</B> = 1.4955219<BR><B>LONGITUDE</B> = 103.817426]]></description>
+      <name>Pizza Hut Permas Jaya</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>103.8174260000,1.4955219000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Taman Anggerik<BR><B>PHONE_NO</B> = 07-555 0430<BR><B>ADDRESS</B> = 93, Jalan Anggerik Emas 1, Taman Anggerik, 81200 Johor Bahru, Johor<BR><B>LATITUDE</B> = 1.5407538<BR><B>LONGITUDE</B> = 103.6890269]]></description>
+      <name>Pizza Hut Taman Anggerik</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>103.6890269000,1.5407538000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut<BR><B>PHONE_NO</B> = 07-334 1178<BR><B>ADDRESS</B> = LG45 & 49, Lower Ground Floor, Jalan Dato Sulaiman, Johor, 80250 Johor Bahru<BR><B>LATITUDE</B> = 1.4883705<BR><B>LONGITUDE</B> = 103.7595018]]></description>
+      <name>Pizza Hut</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>103.7595018000,1.4883705000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Delivery<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = 14-01, Jalan Nusaria, Taman Nusantara, 74200 Nusajaya, Johor<BR><B>LATITUDE</B> = 1.4588527<BR><B>LONGITUDE</B> = 103.5844532]]></description>
+      <name>Pizza Hut Delivery</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>103.5844532000,1.4588527000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Kluang Mall<BR><B>PHONE_NO</B> = 016-248 3295<BR><B>ADDRESS</B> = 18&19, Jln Rambutan, Taman Suria, 86000 Kluang, Johor<BR><B>LATITUDE</B> = 2.0400017<BR><B>LONGITUDE</B> = 103.3211443]]></description>
+      <name>Pizza Hut Kluang Mall</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>103.3211443000,2.0400017000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Taman Century<BR><B>PHONE_NO</B> = 011-3339 9335<BR><B>ADDRESS</B> = 66, Jalan Harimau Tarum, Taman Abad, 80250 Johor Bahru, Johor<BR><B>LATITUDE</B> = 1.4829921<BR><B>LONGITUDE</B> = 103.7647516]]></description>
+      <name>Pizza Hut Taman Century</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>103.7647516000,1.4829921000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Bukit Dahlia<BR><B>PHONE_NO</B> = 019-708 9568<BR><B>ADDRESS</B> = 13, Jalan Sejambak 29, Taman Bukit Dahlia, 81700 Pasir Gudang, Johor<BR><B>LATITUDE</B> = 1.4822081<BR><B>LONGITUDE</B> = 103.8921211]]></description>
+      <name>Pizza Hut Bukit Dahlia</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>103.8921211000,1.4822081000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Aeon Bukit Indah Shopping Centre<BR><B>PHONE_NO</B> = 011-1183 3478<BR><B>ADDRESS</B> = 11, Jalan 15/2, Taman Bukit Indah, 81200 Johor Bahru, Johor<BR><B>LATITUDE</B> = 1.482112<BR><B>LONGITUDE</B> = 103.656204]]></description>
+      <name>Pizza Hut Aeon Bukit Indah Shopping Centre</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>103.6562040000,1.4821120000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Mid Valley Southkey JB<BR><B>PHONE_NO</B> = <BR><B>ADDRESS</B> = Mid Valley Southkey level LG-010 & 11, Johor Bahru<BR><B>LATITUDE</B> = 1.5009666<BR><B>LONGITUDE</B> = 103.777432]]></description>
+      <name>Pizza Hut Mid Valley Southkey JB</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>103.7774320000,1.5009666000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Delivery Bukit Gambir<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Ground Floor, Lot No2, Mua 84800 Muar Johor MY, Jln Gambir 5, Pusat Komersial Gambir, 84700 Bukit Gambir, Johor<BR><B>LATITUDE</B> = 2.2115709<BR><B>LONGITUDE</B> = 102.6520424]]></description>
+      <name>Pizza Hut Delivery Bukit Gambir</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>102.6520424000,2.2115709000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Kota Tinggi<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = No. 1 & 1-1 & No. 3 & 3-1 Jalan Niaga, Pusat Perdagangan, Jalan Mawai, Kota Tingg, 81900 Kota Tinggi, Johor<BR><B>LATITUDE</B> = 1.727204<BR><B>LONGITUDE</B> = 103.9011285]]></description>
+      <name>Pizza Hut Kota Tinggi</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>103.9011285000,1.7272040000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Capital City 21<BR><B>PHONE_NO</B> = 011-6498 2088<BR><B>ADDRESS</B> = FG062, kompleks kapital, Jalan Tampoi, 81200 Johor Bahru, Johor<BR><B>LATITUDE</B> = 1.5068178<BR><B>LONGITUDE</B> = 103.7157084]]></description>
+      <name>Pizza Hut Capital City 21</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>103.7157084000,1.5068178000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Mutiara Mas<BR><B>PHONE_NO</B> = 019-237 7203<BR><B>ADDRESS</B> = PHR Mutiara Mas, 17/19, Jln Mutiara 1/2, Taman Mutiara Mas, 81300 Skudai, Johor<BR><B>LATITUDE</B> = 1.5147784<BR><B>LONGITUDE</B> = 103.6324985]]></description>
+      <name>Pizza Hut Mutiara Mas</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>103.6324985000,1.5147784000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Bukit Pasir<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = No, 1, Jalan Kundang 1, Taman Bukit Pasir, 83000 Batu Pahat, Johor<BR><B>LATITUDE</B> = 1.8654851<BR><B>LONGITUDE</B> = 102.9394004]]></description>
+      <name>Pizza Hut Bukit Pasir</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>102.9394004000,1.8654851000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut<BR><B>PHONE_NO</B> = <BR><B>ADDRESS</B> = East Ledang, 79250 Nusajaya, Johor<BR><B>LATITUDE</B> = 1.4248112<BR><B>LONGITUDE</B> = 103.6164849]]></description>
+      <name>Pizza Hut</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>103.6164849000,1.4248112000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Jln Bakri, Muar<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = No.3A, Jalan Pesta Baru, Ground & Mezzanine Floor, Pusat Perniagaan Pesta Baru, 84000 Muar, Johor<BR><B>LATITUDE</B> = 2.0477209<BR><B>LONGITUDE</B> = 102.5847235]]></description>
+      <name>Pizza Hut Jln Bakri, Muar</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>102.5847235000,2.0477209000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut IOI Kulai<BR><B>PHONE_NO</B> = 07-598 9752<BR><B>ADDRESS</B> = Lebuh Bandar Utama, Bandar Putra, 81000 Kulai, Johor<BR><B>LATITUDE</B> = 1.6479053<BR><B>LONGITUDE</B> = 103.6258972]]></description>
+      <name>Pizza Hut IOI Kulai</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>103.6258972000,1.6479053000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Bandar Penawar<BR><B>PHONE_NO</B> = 07-886 1179<BR><B>ADDRESS</B> = 82200 Bandar Penawar, Johor<BR><B>LATITUDE</B> = 1.5728516<BR><B>LONGITUDE</B> = 104.2070939]]></description>
+      <name>Pizza Hut Bandar Penawar</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>104.2070939000,1.5728516000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Yong Peng<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Taman Sembrong, 83700 Yong Peng, Johor<BR><B>LATITUDE</B> = 2.0104441<BR><B>LONGITUDE</B> = 103.0659802]]></description>
+      <name>Pizza Hut Yong Peng</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>103.0659802000,2.0104441000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Delivery (PHD Parit Raja)<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = No. 6, Ground Floor, Jalan Susur Intan, 86400 Parit Raja, Johor<BR><B>LATITUDE</B> = 1.8666173<BR><B>LONGITUDE</B> = 103.115586]]></description>
+      <name>Pizza Hut Delivery (PHD Parit Raja)</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>103.1155860000,1.8666173000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Setia Tropika<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Lot PTD 131578 - 131612, Setia Tropika, 81100 Johor Bahru, Johor<BR><B>LATITUDE</B> = 1.5488321<BR><B>LONGITUDE</B> = 103.717924]]></description>
+      <name>Pizza Hut Setia Tropika</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>103.7179240000,1.5488321000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Plaza Angsana<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Plaza Angsana, Lot 1.28, Jalan Bertingkat Skudai, Pusat Bandar Tampoi, 81200 Johor Bahru, Johor<BR><B>LATITUDE</B> = 1.4950848<BR><B>LONGITUDE</B> = 103.7056524]]></description>
+      <name>Pizza Hut Plaza Angsana</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>103.7056524000,1.4950848000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut JJ Taman U<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Lot LG 16, Lower Ground Floor Jaya Jusco, Taman Universiti Shopping Center, Tama, 81300 Johor Bahru, Johor<BR><B>LATITUDE</B> = 1.542432<BR><B>LONGITUDE</B> = 103.6292422]]></description>
+      <name>Pizza Hut JJ Taman U</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>103.6292422000,1.5424320000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Delivery Jasin<BR><B>PHONE_NO</B> = 013-630 5216<BR><B>ADDRESS</B> = 90, Jalan Gan Lap, 77000 Jasin, Melaka<BR><B>LATITUDE</B> = 2.312589<BR><B>LONGITUDE</B> = 102.4323366]]></description>
+      <name>Pizza Hut Delivery Jasin</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>102.4323366000,2.3125890000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Ulu Tiram<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = No 3, Jalan Resam 13, Taman Bukit Tiram, 81800 Ulu Tiram, Johor<BR><B>LATITUDE</B> = 1.6022692<BR><B>LONGITUDE</B> = 103.8145516]]></description>
+      <name>Pizza Hut Ulu Tiram</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>103.8145516000,1.6022692000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut<BR><B>PHONE_NO</B> = <BR><B>ADDRESS</B> = Taman Costa Mahkota, 75000 Malacca<BR><B>LATITUDE</B> = 2.1890396<BR><B>LONGITUDE</B> = 102.2491547]]></description>
+      <name>Pizza Hut</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>102.2491547000,2.1890396000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut SIimpang Renggang<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = No 4, Jln Kijang, Simpang Renggam, 86200 Simpang Renggam, Johor<BR><B>LATITUDE</B> = 1.8231172<BR><B>LONGITUDE</B> = 103.3139504]]></description>
+      <name>Pizza Hut SIimpang Renggang</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>103.3139504000,1.8231172000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut AEON Kempas<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = 2nd Floor, AEON Mall, Lot No. S-32, Jln Dato' Onn 3, Bandar Dato Onn, 81100 Johor Bahru, Johor<BR><B>LATITUDE</B> = 1.5638828<BR><B>LONGITUDE</B> = 103.7348698]]></description>
+      <name>Pizza Hut AEON Kempas</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>103.7348698000,1.5638828000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Ayer Keroh<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Lot 4260-1, Jalan, Lebuh Ayer Keroh, 75450, Melaka<BR><B>LATITUDE</B> = 2.253523<BR><B>LONGITUDE</B> = 102.2915885]]></description>
+      <name>Pizza Hut Ayer Keroh</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>102.2915885000,2.2535230000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Delivery Taman Semabok<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Semabok No. 5 Ground Floor Jalan SE 1 Emas, Taman Semabok, 75050 Malacca<BR><B>LATITUDE</B> = 2.1943398<BR><B>LONGITUDE</B> = 102.2878238]]></description>
+      <name>Pizza Hut Delivery Taman Semabok</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>102.2878238000,2.1943398000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut<BR><B>PHONE_NO</B> = <BR><B>ADDRESS</B> = 78000 Alor Gajah, Malacca<BR><B>LATITUDE</B> = 2.3985475<BR><B>LONGITUDE</B> = 102.2211789]]></description>
+      <name>Pizza Hut</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>102.2211789000,2.3985475000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Alor Gajah<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = No. 15, 1, Jalan Perniagaan Jelatang 1, Kompleks Perniagaan Jelatang, 78000 Alor Gajah, Melaka<BR><B>LATITUDE</B> = 2.3841817<BR><B>LONGITUDE</B> = 102.2164502]]></description>
+      <name>Pizza Hut Alor Gajah</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>102.2164502000,2.3841817000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Delivery Kuala Pilah<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = 906, Jalan Raja Melewar, 72000 Kuala Pilah, Negeri Sembilan<BR><B>LATITUDE</B> = 2.7373218<BR><B>LONGITUDE</B> = 102.2461654]]></description>
+      <name>Pizza Hut Delivery Kuala Pilah</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>102.2461654000,2.7373218000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Giant Malaka<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = LOT G22-A &G23 Grd Floor, No 2, Jalan BU 4, Tmn Bachang Utama, 75350, Melaka<BR><B>LATITUDE</B> = 2.2271072<BR><B>LONGITUDE</B> = 102.2534754]]></description>
+      <name>Pizza Hut Giant Malaka</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>102.2534754000,2.2271072000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Sungai Udang<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Udang, No 3, Jalan Kerambit 1, Bdr Baru, 76300 Sungai Udang, Melaka<BR><B>LATITUDE</B> = 2.2902676<BR><B>LONGITUDE</B> = 102.1397296]]></description>
+      <name>Pizza Hut Sungai Udang</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>102.1397296000,2.2902676000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut @ Paradigm Mall JB<BR><B>PHONE_NO</B> = <BR><B>ADDRESS</B> = Paradigm Mall, Jalan Bertingkat Skudai, Taman Bukit Mewah, 81200 Johor Bahru, Johor<BR><B>LATITUDE</B> = 1.5158909<BR><B>LONGITUDE</B> = 103.6854686]]></description>
+      <name><![CDATA[Pizza Hut @ Paradigm Mall JB]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>103.6854686000,1.5158909000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut<BR><B>PHONE_NO</B> = 07-252 1904<BR><B>ADDRESS</B> = Jalan Bandar, Pusat Perdagangan Jalan Bandar, 81700 Pasir Gudang, Johor<BR><B>LATITUDE</B> = 1.466542<BR><B>LONGITUDE</B> = 103.901531]]></description>
+      <name>Pizza Hut</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>103.9015310000,1.4665420000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut<BR><B>PHONE_NO</B> = 07-276 2525<BR><B>ADDRESS</B> = Level 2, Komtar JBCC, Jalan Wong Ah Fook, Bandar Johor Bahru, 80000 Johor Bahru, Johor<BR><B>LATITUDE</B> = 1.463272<BR><B>LONGITUDE</B> = 103.7629739]]></description>
+      <name>Pizza Hut</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>103.7629739000,1.4632720000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = 86, Jalan Dedap 4, Johor Jaya, 81100 Johor Bahru, Johor<BR><B>LATITUDE</B> = 1.542113<BR><B>LONGITUDE</B> = 103.80314]]></description>
+      <name>Pizza Hut</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>103.8031400000,1.5421130000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Taman Perling<BR><B>PHONE_NO</B> = 016-952 5306<BR><B>ADDRESS</B> = Jalan Persisiran Perling, Taman Perling, 81200 Johor Bahru, Johor<BR><B>LATITUDE</B> = 1.4984015<BR><B>LONGITUDE</B> = 103.6824632]]></description>
+      <name>Pizza Hut Taman Perling</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>103.6824632000,1.4984015000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Restaurant, Pontian, Johore.<BR><B>PHONE_NO</B> = 019-237 8236<BR><B>ADDRESS</B> = No.6-G,G-1,G-2,Jalan Emas 3,Pusat Perniagaan Kota Emas,82000Pontian, Johor<BR><B>LATITUDE</B> = 1.4806241<BR><B>LONGITUDE</B> = 103.3989265]]></description>
+      <name>Pizza Hut Restaurant, Pontian, Johore.</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>103.3989265000,1.4806241000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Aeon Tebrau City<BR><B>PHONE_NO</B> = 07-354 2109<BR><B>ADDRESS</B> = S31, Jalan Pandan, Taman Desa Tebrau, 81100 No.1 Jalan Desa Tebrau Taman Desa Tebrau, Johor<BR><B>LATITUDE</B> = 1.5490956<BR><B>LONGITUDE</B> = 103.7957808]]></description>
+      <name>Pizza Hut Aeon Tebrau City</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>103.7957808000,1.5490956000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Aeon Melaka<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Lot No.G-83, Ground Floor, AEON Bandaraya Melaka Shopping Centre, No.2, Jalan I, 75400 Malacca<BR><B>LATITUDE</B> = 2.2146132<BR><B>LONGITUDE</B> = 102.2462748]]></description>
+      <name>Pizza Hut Aeon Melaka</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>102.2462748000,2.2146132000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Mahkota Parade<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = No 1, Lot 23A, Ground Floor, Jln Merdeka, 75000 Melaka<BR><B>LATITUDE</B> = 2.1912478<BR><B>LONGITUDE</B> = 102.2492484]]></description>
+      <name>Pizza Hut Mahkota Parade</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>102.2492484000,2.1912478000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Delivery Masjid Tanah<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Lot SU 1451, Jalan Masjid Tanah Ria Utama, Kampung Tengah Masjid Tanah, 78300 Masjid Tanah, Malacca<BR><B>LATITUDE</B> = 2.351491<BR><B>LONGITUDE</B> = 102.1163173]]></description>
+      <name>Pizza Hut Delivery Masjid Tanah</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>102.1163173000,2.3514910000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Malim Jaya 2<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Jalan, No. 17, Jalan Ppm 8, Plaza Pandan Malim, 75250, Melaka<BR><B>LATITUDE</B> = 2.229<BR><B>LONGITUDE</B> = 102.2273356]]></description>
+      <name>Pizza Hut Malim Jaya 2</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>102.2273356000,2.2290000000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Bukit Beruang<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = No.19, Jalan Bukit Beruang Utama 2, Taman Bukit Beruang Utama, 75450 Ayer Keroh, Melaka<BR><B>LATITUDE</B> = 2.2525824<BR><B>LONGITUDE</B> = 102.2755833]]></description>
+      <name>Pizza Hut Bukit Beruang</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>102.2755833000,2.2525824000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut OBR Ayer Keroh<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Lot No. S-01A-SB, Ayer Keroh OBR Southbound, North-South Expressway, Ayer Keroh, 78000 Alor Gajah, Malacca<BR><B>LATITUDE</B> = 2.269908<BR><B>LONGITUDE</B> = 102.2944891]]></description>
+      <name>Pizza Hut OBR Ayer Keroh</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>102.2944891000,2.2699080000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Delivery Merlimau<BR><B>PHONE_NO</B> = 1-800-88-3232<BR><B>ADDRESS</B> = Malacca, 77300 Merlimau, Malacca<BR><B>LATITUDE</B> = 2.1680531<BR><B>LONGITUDE</B> = 102.4314225]]></description>
+      <name>Pizza Hut Delivery Merlimau</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>102.4314225000,2.1680531000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Jalan Hang Tuah<BR><B>PHONE_NO</B> = 06-264 4218<BR><B>ADDRESS</B> = 75300 Malacca<BR><B>LATITUDE</B> = 2.20451<BR><B>LONGITUDE</B> = 102.2458576]]></description>
+      <name>Pizza Hut Jalan Hang Tuah</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>102.2458576000,2.2045100000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Delivery (PHD) Taman Cheng<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = 75260 Malacca<BR><B>LATITUDE</B> = 2.2704065<BR><B>LONGITUDE</B> = 102.2171587]]></description>
+      <name>Pizza Hut Delivery (PHD) Taman Cheng</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>102.2171587000,2.2704065000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Batu Berendam<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = No. 1 Ground Floor, Jalan Bbp 1, Taman, 75350 Batu Berendam, Melaka<BR><B>LATITUDE</B> = 2.2445973<BR><B>LONGITUDE</B> = 102.256604]]></description>
+      <name>Pizza Hut Batu Berendam</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>102.2566040000,2.2445973000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Delivery<BR><B>PHONE_NO</B> = 017-640 3709<BR><B>ADDRESS</B> = G-1, Jalan Zahir 6, Taman Malim Jaya, 75250 Melaka<BR><B>LATITUDE</B> = 2.2436075<BR><B>LONGITUDE</B> = 102.2364374]]></description>
+      <name>Pizza Hut Delivery</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>102.2364374000,2.2436075000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Delivery Gemas<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = No. 4612, Gemas Square, 73400 Gemas, Negeri Sembilan<BR><B>LATITUDE</B> = 2.5805383<BR><B>LONGITUDE</B> = 102.6122264]]></description>
+      <name>Pizza Hut Delivery Gemas</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>102.6122264000,2.5805383000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Tampin<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Lot 12 & Lot 13 (2 Adjoining Ground Floors, Jalan Besar, 73000 Tampin<BR><B>LATITUDE</B> = 2.4687697<BR><B>LONGITUDE</B> = 102.2316281]]></description>
+      <name>Pizza Hut Tampin</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>102.2316281000,2.4687697000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Seremban<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = No. 10, Bwh, Jalan Tunku Hassan, Bandar Seremban, 70000 Seremban, Negeri Sembilan<BR><B>LATITUDE</B> = 2.7257653<BR><B>LONGITUDE</B> = 101.9389495]]></description>
+      <name>Pizza Hut Seremban</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.9389495000,2.7257653000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Palm Mall<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Lot G-4 & G-5, Ground Floor, Palm Mall Shopping Complex, Kemayan, Jalan Toman 1, 70450 Seremban, Negeri Sembilan<BR><B>LATITUDE</B> = 2.719677<BR><B>LONGITUDE</B> = 101.922224]]></description>
+      <name>Pizza Hut Palm Mall</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.9222240000,2.7196770000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Jusco Seremban 2<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Lot G47 Ground Floor, Jaya Jusco Seremban 2 Shopping Centre, 112, Persiaran S2 B1, 70300 Seremban, Negeri Sembilan<BR><B>LATITUDE</B> = 2.7003662<BR><B>LONGITUDE</B> = 101.91215]]></description>
+      <name>Pizza Hut Jusco Seremban 2</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.9121500000,2.7003662000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Nilai<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = PT 9267, Jalan Ts Utama 3, Taman Semarak 2, 71800 Nilai, Negeri Sembilan<BR><B>LATITUDE</B> = 2.8185757<BR><B>LONGITUDE</B> = 101.8130651]]></description>
+      <name>Pizza Hut Nilai</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.8130651000,2.8185757000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Delivery<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Pusat Bandar Senawang, 70450 Seremban, Negeri Sembilan<BR><B>LATITUDE</B> = 2.7071433<BR><B>LONGITUDE</B> = 101.9928147]]></description>
+      <name>Pizza Hut Delivery</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.9928147000,2.7071433000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut City Park<BR><B>PHONE_NO</B> = 012-512 1585<BR><B>ADDRESS</B> = 119, Jalan S2 D30, Seremban 2, 70300 Seremban, Negeri Sembilan<BR><B>LATITUDE</B> = 2.6897097<BR><B>LONGITUDE</B> = 101.9134876]]></description>
+      <name>Pizza Hut City Park</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.9134876000,2.6897097000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut at Seremban Centre Point<BR><B>PHONE_NO</B> = 06-767 9431<BR><B>ADDRESS</B> = Jalan Dato Siamang Gagap, Centre Points, 70100 Seremban, Negeri Sembilan<BR><B>LATITUDE</B> = 2.722831<BR><B>LONGITUDE</B> = 101.9552782]]></description>
+      <name>Pizza Hut at Seremban Centre Point</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.9552782000,2.7228310000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Putra Point branch, Nilai, Negeri Sembilan.<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = PT12155 (corner lot) & PT12156 (intermediate lot), Jalan BBN 1/1F Putra Point Ph, 71800 Nilai, Negeri Sembilan<BR><B>LATITUDE</B> = 2.8149066<BR><B>LONGITUDE</B> = 101.7975235]]></description>
+      <name>Pizza Hut Putra Point branch, Nilai, Negeri Sembilan.</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.7975235000,2.8149066000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut PD Water Front<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = No. 16-G7, 16-1, Ground & 1st Floor, Jalan Waterfront 5, PD Waterfront, Port Dic 71000 Port Dickson MY, Jalan Waterfront 5, Kampung Bahasa Kapor, 710*<BR><B>LATITUDE</B> = 2.522349<BR><B>LONGITUDE</B> = 101.802044]]></description>
+      <name>Pizza Hut PD Water Front</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.8020440000,2.5223490000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Delivery<BR><B>PHONE_NO</B> = 011-3341 5746<BR><B>ADDRESS</B> = 9625, Jalan TS 2/1h, Taman Semarak, 71800 Nilai, Negeri Sembilan<BR><B>LATITUDE</B> = 2.8221181<BR><B>LONGITUDE</B> = 101.8172878]]></description>
+      <name>Pizza Hut Delivery</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.8172878000,2.8221181000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Senawang<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Lot A-36 to A-39, B-22 to B-25 Giant Hyper Market, Senawang, 70400 Seremban, Negeri Sembilan<BR><B>LATITUDE</B> = 2.7026605<BR><B>LONGITUDE</B> = 101.9848315]]></description>
+      <name>Pizza Hut Senawang</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.9848315000,2.7026605000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut<BR><B>PHONE_NO</B> = <BR><B>ADDRESS</B> = Putra Point, 71800 Bandar Baru Nilai, Negeri Sembilan<BR><B>LATITUDE</B> = 2.8188134<BR><B>LONGITUDE</B> = 101.7900923]]></description>
+      <name>Pizza Hut</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.7900923000,2.8188134000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Delivery (PHD) @ Danau Kota<BR><B>PHONE_NO</B> = 019-653 4548<BR><B>ADDRESS</B> = 62, Jalan Danau Niaga 1, Plaza Usahawan Genting Kelang, 53100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur<BR><B>LATITUDE</B> = 3.2020137<BR><B>LONGITUDE</B> = 101.7179563]]></description>
+      <name><![CDATA[Pizza Hut Delivery (PHD) @ Danau Kota]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.7179563000,3.2020137000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Melati Utama<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = 20, Jalan Melati Utama 4, Melati Utama, 53100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur<BR><B>LATITUDE</B> = 3.2243387<BR><B>LONGITUDE</B> = 101.7298038]]></description>
+      <name>Pizza Hut Melati Utama</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.7298038000,3.2243387000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Setiawangsa<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = No.13, (Ground Floor), Jalan AU 1A/4B, Taman Keramat Permai, 54200 Taman Keramat Permai, Federal Territory of Kuala Lumpur<BR><B>LATITUDE</B> = 3.17741<BR><B>LONGITUDE</B> = 101.7385241]]></description>
+      <name>Pizza Hut Setiawangsa</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.7385241000,3.1774100000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Taman Maluri<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = No. 52 Ground Floor & 1st Floors, Jalan Jejaka, Maluri, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur<BR><B>LATITUDE</B> = 3.1261356<BR><B>LONGITUDE</B> = 101.7296246]]></description>
+      <name>Pizza Hut Taman Maluri</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.7296246000,3.1261356000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Kompleks Mutiara<BR><B>PHONE_NO</B> = 03-6179 5177<BR><B>ADDRESS</B> = 568, Jalan Sultan Azlan Shah, Batu Complex Bussiness Centre, 51200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur<BR><B>LATITUDE</B> = 3.18885<BR><B>LONGITUDE</B> = 101.6809297]]></description>
+      <name>Pizza Hut Kompleks Mutiara</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.6809297000,3.1888500000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Sentul Perdana (Sky Awani)<BR><B>PHONE_NO</B> = 03-4031 7839<BR><B>ADDRESS</B> = G-07 SKY AWANI BUSINESS COMMERCIAL JALAN SENTUL PERDANA ,5100, Federal Territory of Kuala Lumpur<BR><B>LATITUDE</B> = 3.2091938<BR><B>LONGITUDE</B> = 101.6902374]]></description>
+      <name>Pizza Hut Sentul Perdana (Sky Awani)</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.6902374000,3.2091938000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut<BR><B>PHONE_NO</B> = 019-653 7662<BR><B>ADDRESS</B> = 33G, Jalan Setia Murni 1, Bukit Damansara, 50490 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur<BR><B>LATITUDE</B> = 3.1499647<BR><B>LONGITUDE</B> = 101.6524655]]></description>
+      <name>Pizza Hut</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.6524655000,3.1499647000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Kepong<BR><B>PHONE_NO</B> = 012-233 0333<BR><B>ADDRESS</B> = Jalan Prima 10, Taman Kepong, 52100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur<BR><B>LATITUDE</B> = 3.213105<BR><B>LONGITUDE</B> = 101.6438673]]></description>
+      <name>Pizza Hut Kepong</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.6438673000,3.2131050000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = PIzza Hut Bangsar<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = No. 26, Jalan Bangsar, Bangsar, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur<BR><B>LATITUDE</B> = 3.1288893<BR><B>LONGITUDE</B> = 101.6798474]]></description>
+      <name>PIzza Hut Bangsar</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.6798474000,3.1288893000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut at Taman Connaught<BR><B>PHONE_NO</B> = 016-755 2525<BR><B>ADDRESS</B> = 183, Jalan Sarjana, Taman Connaught, 56000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur<BR><B>LATITUDE</B> = 3.082307<BR><B>LONGITUDE</B> = 101.7351355]]></description>
+      <name>Pizza Hut at Taman Connaught</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.7351355000,3.0823070000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Wangsa Maju<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Section 2, No, Jalan Metro Wangsa, Wangsa Maju, 53300 Kuala Lumpur<BR><B>LATITUDE</B> = 3.2047503<BR><B>LONGITUDE</B> = 101.7363733]]></description>
+      <name>Pizza Hut Wangsa Maju</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.7363733000,3.2047503000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut<BR><B>PHONE_NO</B> = <BR><B>ADDRESS</B> = Subway, Avenue K, UC-1 level , infront of, 156, Jalan Ampang, Kampung Baru, 50450 Kuala Lumpur, Federal Territory of Kuala Lumpur<BR><B>LATITUDE</B> = 3.1592702<BR><B>LONGITUDE</B> = 101.7134777]]></description>
+      <name>Pizza Hut</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.7134777000,3.1592702000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Pandan Jaya<BR><B>PHONE_NO</B> = 03-9201 3634<BR><B>ADDRESS</B> = No. 34, Ground Floor, 2, Jalan Pandan 3, Pandan Jaya, 55100 Kuala Lumpur, Selangor<BR><B>LATITUDE</B> = 3.1352097<BR><B>LONGITUDE</B> = 101.7411161]]></description>
+      <name>Pizza Hut Pandan Jaya</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.7411161000,3.1352097000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut<BR><B>PHONE_NO</B> = 03-2164 3480<BR><B>ADDRESS</B> = 184, Jalan Ampang, Hampshire Park, 50450 Kuala Lumpur, Federal Territory of Kuala Lumpur<BR><B>LATITUDE</B> = 3.1605211<BR><B>LONGITUDE</B> = 101.7195449]]></description>
+      <name>Pizza Hut</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.7195449000,3.1605211000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut @ TTDI<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = 45, Jalan Tun Mohd Fuad, Taman Tun Dr Ismail, 60000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur<BR><B>LATITUDE</B> = 3.139<BR><B>LONGITUDE</B> = 101.628031]]></description>
+      <name><![CDATA[Pizza Hut @ TTDI]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.6280310000,3.1390000000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = 52, Jalan Jujur, Bandar Tun Razak, 56000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur<BR><B>LATITUDE</B> = 3.087617<BR><B>LONGITUDE</B> = 101.7213466]]></description>
+      <name>Pizza Hut</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.7213466000,3.0876170000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Kuchai Lama<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Lot 14083, Jalan Kuchai Lama, 58200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur<BR><B>LATITUDE</B> = 3.0924999<BR><B>LONGITUDE</B> = 101.6859783]]></description>
+      <name>Pizza Hut Kuchai Lama</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.6859783000,3.0924999000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Mytown<BR><B>PHONE_NO</B> = <BR><B>ADDRESS</B> = 6, Jalan Cochrane, Maluri, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur<BR><B>LATITUDE</B> = 3.1350563<BR><B>LONGITUDE</B> = 101.7232201]]></description>
+      <name>Pizza Hut Mytown</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.7232201000,3.1350563000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Parklane OUG<BR><B>PHONE_NO</B> = 014-227 1518<BR><B>ADDRESS</B> = PARKLANE, Jalan 1/152, Taman OUG, 58200 Kuala Lumpur, Federal Territory of Kuala Lumpur<BR><B>LATITUDE</B> = 3.0689537<BR><B>LONGITUDE</B> = 101.6573538]]></description>
+      <name>Pizza Hut Parklane OUG</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.6573538000,3.0689537000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut<BR><B>PHONE_NO</B> = <BR><B>ADDRESS</B> = Bukit Jalil, 57000 Kuala Lumpur, Federal Territory of Kuala Lumpur<BR><B>LATITUDE</B> = 3.0525235<BR><B>LONGITUDE</B> = 101.6920941]]></description>
+      <name>Pizza Hut</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.6920941000,3.0525235000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = PIizza Hut Tesco Ampang<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Tesco, Lot 8, Dataran Pandan Prima, 68100 Ampang Jaya, Selangor<BR><B>LATITUDE</B> = 3.1439713<BR><B>LONGITUDE</B> = 101.742291]]></description>
+      <name>PIizza Hut Tesco Ampang</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.7422910000,3.1439713000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Taman Putra Sulaiman<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = No. 9, Ampang Putra Residency, Taman, Jalan Sulaiman 3, Taman Putra Sulaiman, 68000, Selangor<BR><B>LATITUDE</B> = 3.1504258<BR><B>LONGITUDE</B> = 101.7510536]]></description>
+      <name>Pizza Hut Taman Putra Sulaiman</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.7510536000,3.1504258000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Jalan Pahang<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = No. 136, Jalan Pahang, 50300 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur<BR><B>LATITUDE</B> = 3.1726587<BR><B>LONGITUDE</B> = 101.6990662]]></description>
+      <name>Pizza Hut Jalan Pahang</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.6990662000,3.1726587000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut @ Selayang<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = No.5, Jalan SU 10, Taman Selayang Utama, 68000 Batu Caves, Selangor<BR><B>LATITUDE</B> = 3.237311<BR><B>LONGITUDE</B> = 101.6436291]]></description>
+      <name><![CDATA[Pizza Hut @ Selayang]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.6436291000,3.2373110000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Mutiara Complex<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Kompleks Mutiara, Lot No. G 103 Ground Floor No. 568, 3 1/2 Mile, Jalan Sultan Azlan Shah, 51200 Kuala Lumpur<BR><B>LATITUDE</B> = 3.1750807<BR><B>LONGITUDE</B> = 101.6865896]]></description>
+      <name>Pizza Hut Mutiara Complex</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.6865896000,3.1750807000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Taman Putra<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Ground & First Floors, No, 51, Jalan Bunga Tanjung 6a, Taman Putra, 68000 Ampang, Selangor<BR><B>LATITUDE</B> = 3.1210818<BR><B>LONGITUDE</B> = 101.7607402]]></description>
+      <name>Pizza Hut Taman Putra</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.7607402000,3.1210818000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Pavillion 2<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = No 1.100, 1.101 & S1.101, Level 1, Pavilion KL, Bukit Bintang St, 55100 Kuala Lumpur, Federal Territory of Kuala Lumpur<BR><B>LATITUDE</B> = 3.1483397<BR><B>LONGITUDE</B> = 101.7135152]]></description>
+      <name>Pizza Hut Pavillion 2</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.7135152000,3.1483397000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Delivery<BR><B>PHONE_NO</B> = 03-6272 0239<BR><B>ADDRESS</B> = No. 48, Jalan Medan Putra 3, Wilayah Persekutuan, 52200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur<BR><B>LATITUDE</B> = 3.1919148<BR><B>LONGITUDE</B> = 101.6252434]]></description>
+      <name>Pizza Hut Delivery</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.6252434000,3.1919148000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Ampang Jaya<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Ground Floor, No.73, Jln Memanda 1, Ampang Point, 68000 Selangor, Federal Territory of Kuala Lumpur<BR><B>LATITUDE</B> = 3.1993986<BR><B>LONGITUDE</B> = 101.7161577]]></description>
+      <name>Pizza Hut Ampang Jaya</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.7161577000,3.1993986000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut<BR><B>PHONE_NO</B> = 019-653 2668<BR><B>ADDRESS</B> = 5, Jalan PJU 8/5h, Damansara Perdana, 47820 Petaling Jaya, Selangor<BR><B>LATITUDE</B> = 3.1660301<BR><B>LONGITUDE</B> = 101.6074328]]></description>
+      <name>Pizza Hut</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.6074328000,3.1660301000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Balakong<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = No. 33, Jalan Sb Indah 1/2a, Taman Sungai Besi Indah, 43300 Seri Kembangan, Selangor<BR><B>LATITUDE</B> = 3.027103<BR><B>LONGITUDE</B> = 101.7246523]]></description>
+      <name>Pizza Hut Balakong</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.7246523000,3.0271030000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut @ Selayang<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = 8, 2, Jalan 2/12, Dataran Templer, 68100 Batu Caves, Selangor<BR><B>LATITUDE</B> = 3.256832<BR><B>LONGITUDE</B> = 101.6577015]]></description>
+      <name><![CDATA[Pizza Hut @ Selayang]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.6577015000,3.2568320000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Bandar Kinrara<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = 22, Jalan Damai Utama 2, Taman Damai Utama, 47180 Puchong, Selangor<BR><B>LATITUDE</B> = 3.0338066<BR><B>LONGITUDE</B> = 101.6651064]]></description>
+      <name>Pizza Hut Bandar Kinrara</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.6651064000,3.0338066000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Bandar Baru Ampang<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Ground Floor, No.10, 2/12, Jalan Wawasan Ampang, Bandar Baru Ampang, 68000 Ampang, Selangor<BR><B>LATITUDE</B> = 3.146499<BR><B>LONGITUDE</B> = 101.7661]]></description>
+      <name>Pizza Hut Bandar Baru Ampang</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.7661000000,3.1464990000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut @ Giant Kinrara<BR><B>PHONE_NO</B> = 1-800-88-2525<BR><B>ADDRESS</B> = Lot G18, G19,G24 & G25 Ground Floor Giant Hypermarket Bandar Kinrara, Lot 449, J, 47100 Puchong, Selangor<BR><B>LATITUDE</B> = 3.0496817<BR><B>LONGITUDE</B> = 101.646806]]></description>
+      <name><![CDATA[Pizza Hut @ Giant Kinrara]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.6468060000,3.0496817000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut (PHD Dataran Sunway)<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = No.7-1, Ground & First Floors, Jalan PJU 5/6, Dataran Sunway, Kota Damansara, Pe, 47810 Kota Damansara, Selangor<BR><B>LATITUDE</B> = 3.1532435<BR><B>LONGITUDE</B> = 101.5945904]]></description>
+      <name>Pizza Hut (PHD Dataran Sunway)</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.5945904000,3.1532435000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Bandar Sri Permaisuri<BR><B>PHONE_NO</B> = <BR><B>ADDRESS</B> = 20, Jalan Dwitasik 2, Dataran Dwitasik, 56000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur<BR><B>LATITUDE</B> = 3.1016546<BR><B>LONGITUDE</B> = 101.7137628]]></description>
+      <name>Pizza Hut Bandar Sri Permaisuri</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.7137628000,3.1016546000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Genting Klang<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Wisma Mutiara Genting, Lot No. G-11, G-12 & G-13 Ground, Jalan Genting Kelang, 53000 Kuala Lumpur<BR><B>LATITUDE</B> = 3.1966217<BR><B>LONGITUDE</B> = 101.7139775]]></description>
+      <name>Pizza Hut Genting Klang</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.7139775000,3.1966217000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut @ PJ New Town<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Jalan 52/4, Bandar Baru Petaling Jaya, 46200 Petaling Jaya, Selangor<BR><B>LATITUDE</B> = 3.0990298<BR><B>LONGITUDE</B> = 101.646492]]></description>
+      <name><![CDATA[Pizza Hut @ PJ New Town]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.6464920000,3.0990298000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Damansara Height<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Lot 33G, Jalan Medan Setia 1, Bukit Damansara, 50490 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur<BR><B>LATITUDE</B> = 3.1499536<BR><B>LONGITUDE</B> = 101.6524864]]></description>
+      <name>Pizza Hut Damansara Height</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.6524864000,3.1499536000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut @ Sunway Pyramid<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Unit Nos. LL2.40 Lower level 2, Sunway Pyramid Shopping Mall, Bandar Sunway, 47500 Petaling Jaya, Selangor<BR><B>LATITUDE</B> = 3.0718546<BR><B>LONGITUDE</B> = 101.6076907]]></description>
+      <name><![CDATA[Pizza Hut @ Sunway Pyramid]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.6076907000,3.0718546000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut AEON Mahkota Cheras<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Lot G 11, Ground Floor, AEON Mahkota Cheras Shopping Center, Jalan Temenggung 21 43200 Cheras 9 Miles Selangor MY, Jalan Temenggung, Bandar Mahkota C*<BR><B>LATITUDE</B> = 3.0551768<BR><B>LONGITUDE</B> = 101.7876488]]></description>
+      <name>Pizza Hut AEON Mahkota Cheras</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.7876488000,3.0551768000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut @ Paradigm Mall<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Paradigm Mall, Level 2, Lot 2F-15, No.1, Jalan SS 7/26a, Ss 3, 47301 Petaling Jaya, Selangor<BR><B>LATITUDE</B> = 3.1054798<BR><B>LONGITUDE</B> = 101.5962289]]></description>
+      <name><![CDATA[Pizza Hut @ Paradigm Mall]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.5962289000,3.1054798000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Subang Jaya<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = 43, Ground & 1st Floor, Jalan SS 15/8a, 47500 Subang Jaya, Selangor<BR><B>LATITUDE</B> = 3.0740948<BR><B>LONGITUDE</B> = 101.5892976]]></description>
+      <name>Pizza Hut Subang Jaya</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.5892976000,3.0740948000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = PHD Seri Kembangan<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = No. 59 Ground & First Floor, Jalan LP 1a/2, Lestari Perdana, 43300 Seri Kembangan, Selangor<BR><B>LATITUDE</B> = 2.9933459<BR><B>LONGITUDE</B> = 101.6734688]]></description>
+      <name>PHD Seri Kembangan</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.6734688000,2.9933459000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Tesco Ampang<BR><B>PHONE_NO</B> = <BR><B>ADDRESS</B> = 8, Jalan Pandan Prima 2, Dataran Pandan Prima, 68000 Kuala Lumpur, Selangor<BR><B>LATITUDE</B> = 3.1420183<BR><B>LONGITUDE</B> = 101.7416616]]></description>
+      <name>Pizza Hut Tesco Ampang</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.7416616000,3.1420183000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Equine Park<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = 2, Jalan Equine 9b, Taman Equine, 43300 Seri Kembangan, Selangor<BR><B>LATITUDE</B> = 2.9952855<BR><B>LONGITUDE</B> = 101.6750188]]></description>
+      <name>Pizza Hut Equine Park</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.6750188000,2.9952855000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Sri Damansara<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = No.5, Jalan Tanjung SD 13/1, Bandar Sri Damansara, 52200 Kuala Lumpur, Selangor<BR><B>LATITUDE</B> = 3.1888764<BR><B>LONGITUDE</B> = 101.6052135]]></description>
+      <name>Pizza Hut Sri Damansara</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.6052135000,3.1888764000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = A-G-17, Block A, Jalan PJU 1A/20G, Dataran Ara Damansara, 47301 Petaling Jaya, Selangor<BR><B>LATITUDE</B> = 3.1199179<BR><B>LONGITUDE</B> = 101.579858]]></description>
+      <name>Pizza Hut</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.5798580000,3.1199179000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Sungai Buloh<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = 2, Jalan Bpr 1, Bukit Rahman Putra, 47000 Sungai Buloh, Selangor<BR><B>LATITUDE</B> = 3.209228<BR><B>LONGITUDE</B> = 101.5637962]]></description>
+      <name>Pizza Hut Sungai Buloh</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.5637962000,3.2092280000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Putra Heights<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = 11, Jalan Putra Mahkota 7/6c, Pusat Bandar Putra Point, 47650 Subang Jaya, Selangor<BR><B>LATITUDE</B> = 2.9963892<BR><B>LONGITUDE</B> = 101.5741322]]></description>
+      <name>Pizza Hut Putra Heights</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.5741322000,2.9963892000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Aeon Rawang<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = G68, Jalan Desa Ria, Sungai Bakau, 48000 Rawang, Selangor<BR><B>LATITUDE</B> = 3.3158386<BR><B>LONGITUDE</B> = 101.5362416]]></description>
+      <name>Pizza Hut Aeon Rawang</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.5362416000,3.3158386000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Seksyen 20<BR><B>PHONE_NO</B> = 03-5542 5130<BR><B>ADDRESS</B> = Lot 2, Jalan 20/1, Seksyen 20, 40300 Shah Alam, Selangor<BR><B>LATITUDE</B> = 3.056414<BR><B>LONGITUDE</B> = 101.5418645]]></description>
+      <name>Pizza Hut Seksyen 20</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.5418645000,3.0564140000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Delivery (PHD)<BR><B>PHONE_NO</B> = <BR><B>ADDRESS</B> = 27-1, Jln Sungai Burung Z 32/Z, Bukit Rimau, 40460 Shah Alam, Selangor<BR><B>LATITUDE</B> = 2.998872<BR><B>LONGITUDE</B> = 101.5266528]]></description>
+      <name>Pizza Hut Delivery (PHD)</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.5266528000,2.9988720000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut<BR><B>PHONE_NO</B> = 019-653 3611<BR><B>ADDRESS</B> = 18, Jalan PU 7/2, Taman Puchong Utama, 47100 Puchong, Selangor<BR><B>LATITUDE</B> = 2.9926571<BR><B>LONGITUDE</B> = 101.6165421]]></description>
+      <name>Pizza Hut</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.6165421000,2.9926571000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Jusco Cheras Selatan<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Lot G49 Ground Floor, Jusco Cheras Selatan Shopping Centre, 43200 Cheras, Selangor<BR><B>LATITUDE</B> = 3.0332372<BR><B>LONGITUDE</B> = 101.7632162]]></description>
+      <name>Pizza Hut Jusco Cheras Selatan</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.7632162000,3.0332372000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Section 14<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Ground & 1st Floor, No, 4, Jalan 14/14, Seksyen 14, 46100 Petaling Jaya, Selangor<BR><B>LATITUDE</B> = 3.1096948<BR><B>LONGITUDE</B> = 101.6368942]]></description>
+      <name>Pizza Hut Section 14</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.6368942000,3.1096948000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Damansara Jaya<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Ground Floor, No. 5, Jalan SS 22/19, Damansara Jaya, 47400 Petaling Jaya, Selangor<BR><B>LATITUDE</B> = 3.128942<BR><B>LONGITUDE</B> = 101.616517]]></description>
+      <name>Pizza Hut Damansara Jaya</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.6165170000,3.1289420000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut<BR><B>PHONE_NO</B> = <BR><B>ADDRESS</B> = C-GF 13 & C-GF 14, Le Pavilion, Jalan Puteri 7/13, Bandar Puteri Puchong, 47100 Puchong, Selangor<BR><B>LATITUDE</B> = 3.0222723<BR><B>LONGITUDE</B> = 101.6239091]]></description>
+      <name>Pizza Hut</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.6239091000,3.0222723000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = 54, Lebuhraya Kuala Lumpur - Gua Musang, 27600 Raub District, Pahang<BR><B>LATITUDE</B> = 3.7969364<BR><B>LONGITUDE</B> = 101.8627034]]></description>
+      <name>Pizza Hut</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.8627034000,3.7969364000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Seksyen 7<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Seksyen 7, 40000 Shah Alam, Selangor<BR><B>LATITUDE</B> = 3.0667953<BR><B>LONGITUDE</B> = 101.4908758]]></description>
+      <name>Pizza Hut Seksyen 7</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.4908758000,3.0667953000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Bukit Sentosa, 48000 Rawang, Selangor<BR><B>LATITUDE</B> = 3.4043329<BR><B>LONGITUDE</B> = 101.5578455]]></description>
+      <name>Pizza Hut</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.5578455000,3.4043329000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut<BR><B>PHONE_NO</B> = <BR><B>ADDRESS</B> = G19, Aeon Mall, KS 6,, Persiaran Batu Nilam 1, Bandar Bukit Tinggi 2, 41200 Klang, Selangor<BR><B>LATITUDE</B> = 2.9947078<BR><B>LONGITUDE</B> = 101.4447597]]></description>
+      <name>Pizza Hut</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.4447597000,2.9947078000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Section 9, 40100 Shah Alam, Selangor<BR><B>LATITUDE</B> = 3.0854446<BR><B>LONGITUDE</B> = 101.5227361]]></description>
+      <name>Pizza Hut</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.5227361000,3.0854446000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut<BR><B>PHONE_NO</B> = 03-6091 8507<BR><B>ADDRESS</B> = 19, Jalan Bandar Rawang 2, Bandar Baru, 48000 Rawang, Selangor<BR><B>LATITUDE</B> = 3.3230159<BR><B>LONGITUDE</B> = 101.5765424]]></description>
+      <name>Pizza Hut</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.5765424000,3.3230159000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Bukit Kemuning<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Lot 1, Persiaran Kemuning Prima, Kemuning Utama, 40460 Shah Alam, Selangor<BR><B>LATITUDE</B> = 3.0211857<BR><B>LONGITUDE</B> = 101.5384702]]></description>
+      <name>Pizza Hut Bukit Kemuning</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.5384702000,3.0211857000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Persiaran Taman Tasik Prima 3, Taman Tasik Prima, 47100 Puchong, Selangor<BR><B>LATITUDE</B> = 2.9805556<BR><B>LONGITUDE</B> = 101.6019444]]></description>
+      <name>Pizza Hut</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.6019444000,2.9805556000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Banting<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = No. 283, Jalan Sultan Abdul Samad, Taman Seri, 42700 Banting, Selangor<BR><B>LATITUDE</B> = 2.8126584<BR><B>LONGITUDE</B> = 101.5003892]]></description>
+      <name>Pizza Hut Banting</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.5003892000,2.8126584000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Puchong Utama<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = No 18, Jalan PU 7/2, Taman Puchong Utama, 47160 Puchong, Selangor<BR><B>LATITUDE</B> = 2.9926163<BR><B>LONGITUDE</B> = 101.6165839]]></description>
+      <name>Pizza Hut Puchong Utama</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.6165839000,2.9926163000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Taman Sentosa<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = 129736, Jalan Dato Yusuf Shahbudin 15, Taman Sentosa, 41200 Klang, Selangor<BR><B>LATITUDE</B> = 3.0106632<BR><B>LONGITUDE</B> = 101.4654719]]></description>
+      <name>Pizza Hut Taman Sentosa</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.4654719000,3.0106632000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Bukit Tinggi<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Lot A14, Giant Klang, Persiaran Batu Nilam, Bandar Bukit Tinggi, 42000 Klang, Selangor<BR><B>LATITUDE</B> = 3.0100298<BR><B>LONGITUDE</B> = 101.4328512]]></description>
+      <name>Pizza Hut Bukit Tinggi</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.4328512000,3.0100298000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Saujana Utama<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = No. 48-G, Jalan Bidara 6/3, Bandar Saujana Utama, 47500 Sungai Buloh, Selangor<BR><B>LATITUDE</B> = 3.2036061<BR><B>LONGITUDE</B> = 101.4873165]]></description>
+      <name>Pizza Hut Saujana Utama</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.4873165000,3.2036061000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Pandanmarina<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Ground Floor, No. 84, Jalan Batu Unjur 1, Bayu Perdana, 41200 Klang, Selangor<BR><B>LATITUDE</B> = 3.0147369<BR><B>LONGITUDE</B> = 101.4359505]]></description>
+      <name>Pizza Hut Pandanmarina</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.4359505000,3.0147369000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut alam avenue<BR><B>PHONE_NO</B> = <BR><B>ADDRESS</B> = Jalan Mat Raji, Kampung Padang Jawa, 40200 Shah Alam, Selangor<BR><B>LATITUDE</B> = 3.0503085<BR><B>LONGITUDE</B> = 101.4915997]]></description>
+      <name>Pizza Hut alam avenue</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.4915997000,3.0503085000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut<BR><B>PHONE_NO</B> = <BR><B>ADDRESS</B> = Kampung Datuk Keramat, 54000 Kuala Lumpur, Federal Territory of Kuala Lumpur<BR><B>LATITUDE</B> = 3.1718842<BR><B>LONGITUDE</B> = 101.7216997]]></description>
+      <name>Pizza Hut</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.7216997000,3.1718842000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = 1018, Jalan Sultan Ismail, Bukit Bintang, 50250 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur<BR><B>LATITUDE</B> = 3.1598664<BR><B>LONGITUDE</B> = 101.7000562]]></description>
+      <name>Pizza Hut</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.7000562000,3.1598664000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Taman Permata<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = No. 2776, Jalan Changkat Permata, Taman Permata, 53300 Wilayah Persekutuan, Wilayah Persekutuan Kuala Lumpur<BR><B>LATITUDE</B> = 3.2078869<BR><B>LONGITUDE</B> = 101.7509008]]></description>
+      <name>Pizza Hut Taman Permata</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.7509008000,3.2078869000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Sentul Raya<BR><B>PHONE_NO</B> = 03-4044 1241<BR><B>ADDRESS</B> = 8, Jalan 14/48a, Sentul Raya Boulevard, 51000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur<BR><B>LATITUDE</B> = 3.1853161<BR><B>LONGITUDE</B> = 101.6921081]]></description>
+      <name>Pizza Hut Sentul Raya</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.6921081000,3.1853161000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = 20, Jalan Pahang, Titiwangsa Sentral, 53000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur<BR><B>LATITUDE</B> = 3.1727793<BR><B>LONGITUDE</B> = 101.6989025]]></description>
+      <name>Pizza Hut</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.6989025000,3.1727793000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Delivery<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = No. 143, Ground & 1st Floor, Jalan Imbi, Kuala Lumpur, 55100 Kuala Lumpur, Federal Territory of Kuala Lumpur<BR><B>LATITUDE</B> = 3.1445246<BR><B>LONGITUDE</B> = 101.7139694]]></description>
+      <name>Pizza Hut Delivery</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.7139694000,3.1445246000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Glomac Kelana Jaya<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = No. F-G, 06, Jalan SS 6/5b, Dataran Glomac, 47301 Kelana Jaya, Selangor<BR><B>LATITUDE</B> = 3.1038959<BR><B>LONGITUDE</B> = 101.6000179]]></description>
+      <name>Pizza Hut Glomac Kelana Jaya</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.6000179000,3.1038959000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut THE CURVE<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Ground Floor, The Curve, Lot No G C39, No 6, Jalan PJU 7/3, Mutiara Damansara, 47810 Petaling Jaya, Selangor<BR><B>LATITUDE</B> = 3.1568428<BR><B>LONGITUDE</B> = 101.6104983]]></description>
+      <name>Pizza Hut THE CURVE</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.6104983000,3.1568428000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut PJ Old Town<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = No. 84, Jalan 1/14, Pj Old Town, 46000 Petaling Jaya, Selangor<BR><B>LATITUDE</B> = 3.0866327<BR><B>LONGITUDE</B> = 101.6478839]]></description>
+      <name>Pizza Hut PJ Old Town</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.6478839000,3.0866327000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut<BR><B>PHONE_NO</B> = 011-2914 4940<BR><B>ADDRESS</B> = No 6G, Jalan Suarasa 8/4, Town Park 1 Bandar Tun Hussein Onn, 43200 Cheras, Selangor<BR><B>LATITUDE</B> = 3.046156<BR><B>LONGITUDE</B> = 101.759693]]></description>
+      <name>Pizza Hut</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.7596930000,3.0461560000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Wangsa Maju<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Jalan 8/27a, Wangsa Maju, 53300 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur<BR><B>LATITUDE</B> = 3.1971424<BR><B>LONGITUDE</B> = 101.7438802]]></description>
+      <name>Pizza Hut Wangsa Maju</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.7438802000,3.1971424000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Mines Shopping Fair<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = No. L3 - 60 (A2) Second Floor, The Mines Shopping Fair, Jalan Dulang Mines Resor 43000 Seri Kembangan Selangor MY, Jalan Dulang, Mines Wellness City,*<BR><B>LATITUDE</B> = 3.0284807<BR><B>LONGITUDE</B> = 101.71865]]></description>
+      <name>Pizza Hut Mines Shopping Fair</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.7186500000,3.0284807000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Kota Damansara<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Section 6, Jalan Cecawi 6/18, Kota Damansara, 47830 Petaling Jaya, Selangor<BR><B>LATITUDE</B> = 3.1603405<BR><B>LONGITUDE</B> = 101.5747857]]></description>
+      <name>Pizza Hut Kota Damansara</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.5747857000,3.1603405000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Leboh Tapah<BR><B>PHONE_NO</B> = 019-237 8077<BR><B>ADDRESS</B> = Leboh Tapah, Kawasan 18, 41300 Klang, Selangor<BR><B>LATITUDE</B> = 3.0509888<BR><B>LONGITUDE</B> = 101.4427241]]></description>
+      <name>Pizza Hut Leboh Tapah</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.4427241000,3.0509888000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Batang Kali<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = 45, Jln Mahagoni 7/1, Pekan Batang Kali, 44200 Batang Kali, Selangor<BR><B>LATITUDE</B> = 3.4605333<BR><B>LONGITUDE</B> = 101.6589345]]></description>
+      <name>Pizza Hut Batang Kali</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.6589345000,3.4605333000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut<BR><B>PHONE_NO</B> = <BR><B>ADDRESS</B> = ioi, Bandar Puchong Jaya, 47100 Puchong, Selangor<BR><B>LATITUDE</B> = 3.0516805<BR><B>LONGITUDE</B> = 101.6239056]]></description>
+      <name>Pizza Hut</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.6239056000,3.0516805000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut<BR><B>PHONE_NO</B> = 014-914 8979<BR><B>ADDRESS</B> = Denai Alam, 40160 Shah Alam, Selangor<BR><B>LATITUDE</B> = 3.1608718<BR><B>LONGITUDE</B> = 101.5122818]]></description>
+      <name>Pizza Hut</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.5122818000,3.1608718000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut FCD Bukit Jelutong<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Lot G-32 & G-33, Radia, Persiaran Tebar Layar, Bukit Jelutong, 40150 Shah Alam, Selangor<BR><B>LATITUDE</B> = 3.1020186<BR><B>LONGITUDE</B> = 101.5360858]]></description>
+      <name>Pizza Hut FCD Bukit Jelutong</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.5360858000,3.1020186000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Berjaya Times Square<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = No. 1, Level 03-107B, Berjaya Times Square, 1, Jalan Imbi, Imbi, 55100 Kuala Lumpur, Federal Territory of Kuala Lumpur<BR><B>LATITUDE</B> = 3.140701<BR><B>LONGITUDE</B> = 101.71042]]></description>
+      <name>Pizza Hut Berjaya Times Square</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.7104200000,3.1407010000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Semenyih<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Lot PT 26794, Persiaran Pelangi, 43700, Selangor<BR><B>LATITUDE</B> = 2.932707<BR><B>LONGITUDE</B> = 101.854952]]></description>
+      <name>Pizza Hut Semenyih</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.8549520000,2.9327070000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut, Bandar Puteri Klang<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = No. 47A, Ground Floor, Lorong Sanggul 1f, Bandar Puteri, 41200 Port Klang, Selangor<BR><B>LATITUDE</B> = 2.98646<BR><B>LONGITUDE</B> = 101.465834]]></description>
+      <name>Pizza Hut, Bandar Puteri Klang</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.4658340000,2.9864600000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Delivery PHD<BR><B>PHONE_NO</B> = 03-9057 8689<BR><B>ADDRESS</B> = 16, Jalan Radin Anum, Sri Petaling, 57000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur<BR><B>LATITUDE</B> = 3.0672231<BR><B>LONGITUDE</B> = 101.6901522]]></description>
+      <name>Pizza Hut Delivery PHD</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.6901522000,3.0672231000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut @ Central i-City<BR><B>PHONE_NO</B> = <BR><B>ADDRESS</B> = L3-53, L3-54, Central i-City Shopping Centre, No. 1, Persiaran Multimedia, Seksyen 7, Jalan Plumbum 7/102, I-City, 40000 Shah Alam, Selangor<BR><B>LATITUDE</B> = 3.0627305<BR><B>LONGITUDE</B> = 101.4821127]]></description>
+      <name><![CDATA[Pizza Hut @ Central i-City]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.4821127000,3.0627305000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Ampang Point<BR><B>PHONE_NO</B> = 03-4265 1726<BR><B>ADDRESS</B> = Lot F25D, First Floor, Ampang Point Shopping Centre, Jalan Mamanda 3, Taman Dato Ahmad Razali, 68000 Ampang Jaya, Selangor<BR><B>LATITUDE</B> = 3.1578019<BR><B>LONGITUDE</B> = 101.7509931]]></description>
+      <name>Pizza Hut Ampang Point</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.7509931000,3.1578019000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Pelabuhan Klang<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = No. 105 Ground & 1st Floors, Persiaran Raja Muda Musa, Kawasan 13, 42000 Pelabuhan Klang, Selangor<BR><B>LATITUDE</B> = 3.0027917<BR><B>LONGITUDE</B> = 101.4000297]]></description>
+      <name>Pizza Hut Pelabuhan Klang</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.4000297000,3.0027917000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Delivery (PHD) @ Sri Serdang<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = No. 3542, Jalan 18/45, Taman Sri Serdang, 43300 Seri Kembangan, Selangor<BR><B>LATITUDE</B> = 3.0121605<BR><B>LONGITUDE</B> = 101.7174698]]></description>
+      <name><![CDATA[Pizza Hut Delivery (PHD) @ Sri Serdang]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.7174698000,3.0121605000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut @ Klang<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = No 9, Jalan Taiping, Kawasan 18, 41400 Klang, Selangor<BR><B>LATITUDE</B> = 3.0490684<BR><B>LONGITUDE</B> = 101.4477615]]></description>
+      <name><![CDATA[Pizza Hut @ Klang]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.4477615000,3.0490684000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Lot SA - T2C - B05 & B06, Genting Highlands, 69000 Genting Highlands, Pahang<BR><B>LATITUDE</B> = 3.4242757<BR><B>LONGITUDE</B> = 101.7963759]]></description>
+      <name>Pizza Hut</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.7963759000,3.4242757000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = No 72, Jalan Melati 3/1, Bandar Melawati, 45000 Kuala Selangor, Selangor<BR><B>LATITUDE</B> = 3.3313897<BR><B>LONGITUDE</B> = 101.2555341]]></description>
+      <name>Pizza Hut</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.2555341000,3.3313897000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Sunway Mentari<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = 12, Jalan PJS 8/2, Mentari Business Park, Bandar Sunway, Petaling Jaya, 46150 Bandar, Selangor<BR><B>LATITUDE</B> = 3.0748967<BR><B>LONGITUDE</B> = 101.6111556]]></description>
+      <name>Pizza Hut Sunway Mentari</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.6111556000,3.0748967000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut @ Da Men Mall USJ<BR><B>PHONE_NO</B> = <BR><B>ADDRESS</B> = Unit C, Da Men, 03-27, Persiaran Kewajipan, Usj 1, 47600 Subang Jaya, Selangor<BR><B>LATITUDE</B> = 3.0583627<BR><B>LONGITUDE</B> = 101.5938069]]></description>
+      <name><![CDATA[Pizza Hut @ Da Men Mall USJ]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.5938069000,3.0583627000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Setia Alam<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Fasa 1A, Bandar, Seksyen, U13 Shah Alam, No 2, Persiaran Setia Impian, Setia Alam, 40170 Shah Alam, Selangor<BR><B>LATITUDE</B> = 3.1017052<BR><B>LONGITUDE</B> = 101.4450375]]></description>
+      <name>Pizza Hut Setia Alam</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.4450375000,3.1017052000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Alam Avenue<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Persiaran Serai Wangi, F, Shah, A-5-G, Jalan Padang Jawa, Alam Avenue, 40200 Shah Alam, Selangor<BR><B>LATITUDE</B> = 3.0577818<BR><B>LONGITUDE</B> = 101.4914183]]></description>
+      <name>Pizza Hut Alam Avenue</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.4914183000,3.0577818000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Bandar Baru Klang<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = No.6, Ground Floor, Jalan Tiara 2, Bandar Baru Klang, 41150 Klang, Selangor<BR><B>LATITUDE</B> = 3.0626017<BR><B>LONGITUDE</B> = 101.4694905]]></description>
+      <name>Pizza Hut Bandar Baru Klang</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.4694905000,3.0626017000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Delivery Sungai Besar<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = No. 21, Jalan Ssbc 1, Sungai Besar, 45300 Sungai Besar, Selangor<BR><B>LATITUDE</B> = 3.6743861<BR><B>LONGITUDE</B> = 100.9885605]]></description>
+      <name>Pizza Hut Delivery Sungai Besar</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>100.9885605000,3.6743861000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Extreme Park<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Lot 1, Shah Alam Extreme Park, Jalan Lompar 13/37, Section 13, 40100 Shah Alam, Selangor<BR><B>LATITUDE</B> = 3.0867471<BR><B>LONGITUDE</B> = 101.5420741]]></description>
+      <name>Pizza Hut Extreme Park</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.5420741000,3.0867471000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut<BR><B>PHONE_NO</B> = 03-8889 4642<BR><B>ADDRESS</B> = Alamanda Shopping Centre, G01--G04, GROUND FLOOR, PARCEL 2, LOT G90, Jalan Alamanda, Presint 1, 62000, Putrajaya<BR><B>LATITUDE</B> = 2.9395957<BR><B>LONGITUDE</B> = 101.7115413]]></description>
+      <name>Pizza Hut</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.7115413000,2.9395957000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Kota Kemuning<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = No 21 & 23, Jalan Anggerik Vanilla, Kota Kemuning, 40000 Shah Alam, Selangor<BR><B>LATITUDE</B> = 3.0048861<BR><B>LONGITUDE</B> = 101.5347753]]></description>
+      <name>Pizza Hut Kota Kemuning</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.5347753000,3.0048861000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Teluk Pulai<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = No. 35, Jalan Teluk Pulai, Taman Teluk Pulai, 41250 Klang, Selangor<BR><B>LATITUDE</B> = 3.0424181<BR><B>LONGITUDE</B> = 101.4276296]]></description>
+      <name>Pizza Hut Teluk Pulai</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.4276296000,3.0424181000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Puchong Jaya<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Ground Floor, No. 11, Jalan Kenari 22, Bandar Puchong Jaya, 47100 Puchong, Selangor<BR><B>LATITUDE</B> = 3.0431382<BR><B>LONGITUDE</B> = 101.6218496]]></description>
+      <name>Pizza Hut Puchong Jaya</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.6218496000,3.0431382000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Kota Warisan<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = KIP Sentral, Lot 11-G, Jln Warisan Sentral 1, Kota Warisan, 43900 Sepang, Selangor<BR><B>LATITUDE</B> = 2.8181388<BR><B>LONGITUDE</B> = 101.6942154]]></description>
+      <name>Pizza Hut Kota Warisan</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.6942154000,2.8181388000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Rawang 2<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = No 1, Jalan Bandar Rawang 9, Pusat Bandar Rawang, 48000 Rawang, Selangor<BR><B>LATITUDE</B> = 3.319404<BR><B>LONGITUDE</B> = 101.577994]]></description>
+      <name>Pizza Hut Rawang 2</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.5779940000,3.3194040000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut AEON AU2<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Ground Floor, Aeon Au2 Shopping Centre, Lot No G55, No: 6, Jalan Taman Setiawan, Wilayah Persekutuan, 54200 Kuala Lumpur, Wilayah Persekutuan Kuala L*<BR><B>LATITUDE</B> = 3.177103<BR><B>LONGITUDE</B> = 101.7507567]]></description>
+      <name>Pizza Hut AEON AU2</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.7507567000,3.1771030000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Putra Height<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = No 7, Jalan Putra Mahkota 7/6c, Putra Point Commercial Centre, 47650 Subang Jaya, Selangor<BR><B>LATITUDE</B> = 2.9963137<BR><B>LONGITUDE</B> = 101.5741225]]></description>
+      <name>Pizza Hut Putra Height</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.5741225000,2.9963137000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut PJ New Town<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Sha Alam, Lot 60 & 62, Jalan 52/4, 46200 Petaling Jaya, Selangor<BR><B>LATITUDE</B> = 3.0993619<BR><B>LONGITUDE</B> = 101.4650432]]></description>
+      <name>Pizza Hut PJ New Town</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.4650432000,3.0993619000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Sri Gombak<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = G26, Jalan Prima SG 1, Prima Seri Gombak, 68100 Batu Caves, Selangor<BR><B>LATITUDE</B> = 3.2392064<BR><B>LONGITUDE</B> = 101.6997766]]></description>
+      <name>Pizza Hut Sri Gombak</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.6997766000,3.2392064000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Restaurants Sdn Bhd<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Level 7, Tower 1, Vsquare @ PJ City Centre, Jalan Utara PJS 52 46200 Petaling Jaya Selangor MY, Jln Utara, Petaling Jaya, Selangor<BR><B>LATITUDE</B> = 3.1073402<BR><B>LONGITUDE</B> = 101.640184]]></description>
+      <name>Pizza Hut Restaurants Sdn Bhd</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.6401840000,3.1073402000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut at Jalan Lumut<BR><B>PHONE_NO</B> = 05-692 5060<BR><B>ADDRESS</B> = 6, Jalan Lumut, Taman Sitiawan Maju, 32000 Sitiawan, Perak<BR><B>LATITUDE</B> = 4.215426<BR><B>LONGITUDE</B> = 100.6925648]]></description>
+      <name>Pizza Hut at Jalan Lumut</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>100.6925648000,4.2154260000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut AEON Seri Manjung<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Lot G57, Ground Floor, AEON Seri Manjung Shopping Centre, Pusat Perniagaan Point 32040 Seri Manjung Perak MY, 32040, Perak<BR><B>LATITUDE</B> = 4.2202234<BR><B>LONGITUDE</B> = 100.671603]]></description>
+      <name>Pizza Hut AEON Seri Manjung</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>100.6716030000,4.2202234000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Kuala Kangsar<BR><B>PHONE_NO</B> = 05-770 0964<BR><B>ADDRESS</B> = 1, Jalan Taiping, 33000 Kuala Kangsar, Perak<BR><B>LATITUDE</B> = 4.7722318<BR><B>LONGITUDE</B> = 100.9338463]]></description>
+      <name>Pizza Hut Kuala Kangsar</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>100.9338463000,4.7722318000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Bercham<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = No. 18-G, Ground Floor, Glamour Square, Taman Bercham Jaya, 31400 Ipoh, Perak<BR><B>LATITUDE</B> = 4.627421<BR><B>LONGITUDE</B> = 101.126823]]></description>
+      <name>Pizza Hut Bercham</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.1268230000,4.6274210000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut<BR><B>PHONE_NO</B> = <BR><B>ADDRESS</B> = R&R tapah southbound.<BR><B>LATITUDE</B> = 4.1806221<BR><B>LONGITUDE</B> = 101.2900306]]></description>
+      <name>Pizza Hut</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.2900306000,4.1806221000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = No.1 & 2 Lot 105 & 106 Bangunan Baitulmal, 31900, 31900 Kampar, Perak<BR><B>LATITUDE</B> = 4.314293<BR><B>LONGITUDE</B> = 101.1523875]]></description>
+      <name>Pizza Hut</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.1523875000,4.3142930000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Sungai Siput ( U ) Perak.<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = 30, Jln Besar, Kampung Bahagia, 31100 Sungai Siput, Perak<BR><B>LATITUDE</B> = 4.8115503<BR><B>LONGITUDE</B> = 101.0854189]]></description>
+      <name>Pizza Hut Sungai Siput ( U ) Perak.</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.0854189000,4.8115503000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Sri Iskandar<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Ground Floor, No. 26, Persiaran SIBC 2, Bandar Seri Iskandar, 31750 Seri Iskandar, Perak<BR><B>LATITUDE</B> = 4.35805<BR><B>LONGITUDE</B> = 100.9685178]]></description>
+      <name>Pizza Hut Sri Iskandar</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>100.9685178000,4.3580500000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = PizzaHut Tanjung Malim<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = 1st Floor, No.3 Ground @, Jalan Hj Mustapha Raja Kamala, Tanjung Malim, 35900 Tanjong Malim, Perak<BR><B>LATITUDE</B> = 3.680804<BR><B>LONGITUDE</B> = 101.5215232]]></description>
+      <name>PizzaHut Tanjung Malim</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.5215232000,3.6808040000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Delivery<BR><B>PHONE_NO</B> = 05-721 1175<BR><B>ADDRESS</B> = Jalan Harmoni, Kampung Alor Senggut, 34300 Bagan Serai, Perak<BR><B>LATITUDE</B> = 5.012984<BR><B>LONGITUDE</B> = 100.5349096]]></description>
+      <name>Pizza Hut Delivery</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>100.5349096000,5.0129840000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Restaurants Sdn. Bhd.<BR><B>PHONE_NO</B> = 05-548 4702<BR><B>ADDRESS</B> = 45-5, Jalan Sultan Azlan Shah, Taman Ipoh Selatan, 31400, Ipoh, Perak, 31400<BR><B>LATITUDE</B> = 4.6086472<BR><B>LONGITUDE</B> = 101.1183276]]></description>
+      <name>Pizza Hut Restaurants Sdn. Bhd.</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.1183276000,4.6086472000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Parit Buntar<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Ground Floor, Lot No. 31, Jalan Shahbandar, Pusat Bandar Baru, 34200 Parit Buntar, Perak<BR><B>LATITUDE</B> = 5.119205<BR><B>LONGITUDE</B> = 100.487246]]></description>
+      <name>Pizza Hut Parit Buntar</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>100.4872460000,5.1192050000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Kamunting<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = No.35, Medan Saujana, Jalan Kamunting Maju, Bandar Kamunting, Taiping, 34600 Taiping, Perak<BR><B>LATITUDE</B> = 4.8750667<BR><B>LONGITUDE</B> = 100.7278313]]></description>
+      <name>Pizza Hut Kamunting</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>100.7278313000,4.8750667000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Gunung Rapat<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Lot 36643A, Jalan Raja Dr. Nazrin Shah, Taman Cemerlang Rapat, 30250 Ipoh, Perak<BR><B>LATITUDE</B> = 4.5693654<BR><B>LONGITUDE</B> = 101.1139256]]></description>
+      <name>Pizza Hut Gunung Rapat</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.1139256000,4.5693654000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Taiping<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = No. 19, Jalan Kelab Cina, 34000 Taiping, Perak<BR><B>LATITUDE</B> = 4.8516643<BR><B>LONGITUDE</B> = 100.7411316]]></description>
+      <name>Pizza Hut Taiping</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>100.7411316000,4.8516643000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut AEON BIG Falim<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = AEON Big Midtown Shopping Centre, Lot No. G33, No. 1 Hala Farlim 1, Taman Mas Jaya, Bandar Baru Air Itam, 30200 Ipoh, Perak<BR><B>LATITUDE</B> = 4.5816389<BR><B>LONGITUDE</B> = 101.0598455]]></description>
+      <name>Pizza Hut AEON BIG Falim</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.0598455000,4.5816389000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Ipoh Central<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = No.69, Jalan Datuk Onn Jaafar, Central, Ipoh, 30330 Ipoh, Perak<BR><B>LATITUDE</B> = 4.5987071<BR><B>LONGITUDE</B> = 101.084005]]></description>
+      <name>Pizza Hut Ipoh Central</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.0840050000,4.5987071000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut<BR><B>PHONE_NO</B> = 019-653 6550<BR><B>ADDRESS</B> = 3, Jalan Besar, Kampung Lubok Katak, 35000 Tapah, Perak<BR><B>LATITUDE</B> = 4.1967137<BR><B>LONGITUDE</B> = 101.2610487]]></description>
+      <name>Pizza Hut</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.2610487000,4.1967137000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Lot 217643, Jln. Kuala Kangsar, Taman Tasik Mutiara, 31400 Ipoh, Perak<BR><B>LATITUDE</B> = 4.6538463<BR><B>LONGITUDE</B> = 101.1077273]]></description>
+      <name>Pizza Hut</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.1077273000,4.6538463000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = A12, Jalan SCI 2/2, Sunway City Ipoh, 31150 Ipoh, Perak<BR><B>LATITUDE</B> = 4.6227529<BR><B>LONGITUDE</B> = 101.1507869]]></description>
+      <name>Pizza Hut</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.1507869000,4.6227529000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Ipoh Garden<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = No. 45-5, 45-5A, Jalan Sultan Azlan Shah, Garden South Ipoh, 31400 Ipoh<BR><B>LATITUDE</B> = 4.608722<BR><B>LONGITUDE</B> = 101.1183421]]></description>
+      <name>Pizza Hut Ipoh Garden</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.1183421000,4.6087220000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut<BR><B>PHONE_NO</B> = <BR><B>ADDRESS</B> = Lot G60, Ground Floor, AEON Ipoh Station 18 Station 18, Shopping Centre, 31650 Ipoh, Perak<BR><B>LATITUDE</B> = 4.546338<BR><B>LONGITUDE</B> = 101.070747]]></description>
+      <name>Pizza Hut</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.0707470000,4.5463380000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = 15, Jalan Meru Bestari B2, Meru Bestari, 30020 Ipoh, Perak<BR><B>LATITUDE</B> = 4.6701284<BR><B>LONGITUDE</B> = 101.0758707]]></description>
+      <name>Pizza Hut</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.0758707000,4.6701284000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Teluk Intan<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = No 11 & 13, Jalan Intan 1, Bandar Baru Teluk Intan, 36000 Teluk Intan, Perak<BR><B>LATITUDE</B> = 4.0204248<BR><B>LONGITUDE</B> = 101.0230631]]></description>
+      <name>Pizza Hut Teluk Intan</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.0230631000,4.0204248000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Sunway Carnival<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Lot G08, Lower Ground Floor, Sunway Carnival Shopping Mall, Jalan Todak, Pusat B, 13700 Seberang Jaya, Pulau Pinang<BR><B>LATITUDE</B> = 5.3988897<BR><B>LONGITUDE</B> = 100.3984058]]></description>
+      <name>Pizza Hut Sunway Carnival</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>100.3984058000,5.3988897000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Pauh Jaya<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Lot 1& 3, Ground Floor, Lorong Pauh Jaya 1/2, Taman Pauh Jaya, 13700 Perai, Pulau Pinang<BR><B>LATITUDE</B> = 5.3705325<BR><B>LONGITUDE</B> = 100.4147098]]></description>
+      <name>Pizza Hut Pauh Jaya</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>100.4147098000,5.3705325000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Unit No. G-104 MegaMall Pinang, 2828 Jalan Baru, Bandar Perai Jaya, Seberang Per, 13600 Perai, Pulau Pinang, Penang<BR><B>LATITUDE</B> = 5.377001<BR><B>LONGITUDE</B> = 100.3999568]]></description>
+      <name>Pizza Hut</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>100.3999568000,5.3770010000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut<BR><B>PHONE_NO</B> = 04-642 5649<BR><B>ADDRESS</B> = 11900 Bayan Lepas, Penang<BR><B>LATITUDE</B> = 5.3211139<BR><B>LONGITUDE</B> = 100.2842763]]></description>
+      <name>Pizza Hut</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>100.2842763000,5.3211139000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Bukit Mertajam<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = No. 33, Jln Perniagaan Gemilang 1, Pusat Perdagangan Gemilang, 14000 Bukit Mertajam, Pulau Pinang<BR><B>LATITUDE</B> = 5.3507554<BR><B>LONGITUDE</B> = 100.4405271]]></description>
+      <name>Pizza Hut Bukit Mertajam</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>100.4405271000,5.3507554000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Sungai Dua<BR><B>PHONE_NO</B> = 04-356 2434<BR><B>ADDRESS</B> = Lorong Perniagaan, 13800 Butterworth, Pulau Pinang<BR><B>LATITUDE</B> = 5.4453399<BR><B>LONGITUDE</B> = 100.4301292]]></description>
+      <name>Pizza Hut Sungai Dua</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>100.4301292000,5.4453399000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut<BR><B>PHONE_NO</B> = 011-3606 7254<BR><B>ADDRESS</B> = Unit No. R-01-07 Setia Triangle, Persiaran Kelicap, Sungai Ara, 11900 Bayan Lepas, Penang<BR><B>LATITUDE</B> = 5.3023112<BR><B>LONGITUDE</B> = 100.2607249]]></description>
+      <name>Pizza Hut</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>100.2607249000,5.3023112000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Sg Dua<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = No. 4M & 4N Desa University, Commercial Complex, Jalan Sungai Dua, 11700 Gelugor, Penang<BR><B>LATITUDE</B> = 5.3523977<BR><B>LONGITUDE</B> = 100.2991323]]></description>
+      <name>Pizza Hut Sg Dua</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>100.2991323000,5.3523977000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Kepala Batas<BR><B>PHONE_NO</B> = 013-351 9186<BR><B>ADDRESS</B> = 129, P123, 13100 Penaga, Pulau Pinang<BR><B>LATITUDE</B> = 5.5170108<BR><B>LONGITUDE</B> = 100.4443011]]></description>
+      <name>Pizza Hut Kepala Batas</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>100.4443011000,5.5170108000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut<BR><B>PHONE_NO</B> = 04-390 2426<BR><B>ADDRESS</B> = Ground Floor, Lot 1 & 3, Lorong Pauh Jaya 1/2, Taman Pauh Jaya, 13700 Perai, Pulau Pinang<BR><B>LATITUDE</B> = 5.3705325<BR><B>LONGITUDE</B> = 100.4147098]]></description>
+      <name>Pizza Hut</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>100.4147098000,5.3705325000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Nibong Tebal<BR><B>PHONE_NO</B> = 019-237 8236<BR><B>ADDRESS</B> = Taman Perindustrian Nibong Tebal, 14300 Nibong Tebal, Penang<BR><B>LATITUDE</B> = 5.1782727<BR><B>LONGITUDE</B> = 100.4815159]]></description>
+      <name>Pizza Hut Nibong Tebal</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>100.4815159000,5.1782727000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut<BR><B>PHONE_NO</B> = 04-491 5477<BR><B>ADDRESS</B> = Lot 1, Mark Central Shopping Central, Jalan Resak 1, Taman Resak, 09000 Kulim, Kedah<BR><B>LATITUDE</B> = 5.386322<BR><B>LONGITUDE</B> = 100.546571]]></description>
+      <name>Pizza Hut</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>100.5465710000,5.3863220000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut<BR><B>PHONE_NO</B> = 014-985 7127<BR><B>ADDRESS</B> = Lorong Seri Alma, Pusat Perniagaan Alma, 14000 Bukit Mertajam, Pulau Pinang<BR><B>LATITUDE</B> = 5.3318201<BR><B>LONGITUDE</B> = 100.4852463]]></description>
+      <name>Pizza Hut</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>100.4852463000,5.3318201000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Juru Autopay<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Lebuhraya Utara - Selatan, Exchange, Lot 1829, Jalan Perusahaan, Kampung Juru, 13600 Perai, Pulau Pinang<BR><B>LATITUDE</B> = 5.3769075<BR><B>LONGITUDE</B> = 100.40273]]></description>
+      <name>Pizza Hut Juru Autopay</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>100.4027300000,5.3769075000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Bayan Baru<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Giant Hypermarket, Lot G8 & G9 Ground Floor, 78, Jalan Tengah, Bandar Bayan Baru, 11900 Bayan Bar, Penang<BR><B>LATITUDE</B> = 5.3198561<BR><B>LONGITUDE</B> = 100.2839235]]></description>
+      <name>Pizza Hut Bayan Baru</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>100.2839235000,5.3198561000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Kepala Batas<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = No. 2148, Jalan Bertam, 13200 Kepala Batas, Pulau Pinang<BR><B>LATITUDE</B> = 5.5173336<BR><B>LONGITUDE</B> = 100.4319564]]></description>
+      <name>Pizza Hut Kepala Batas</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>100.4319564000,5.5173336000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut R2 Avenue<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Lot 20, Ground Floor, Lorong Perniagaan, Pusat Perniagaan Sg. Dua-R2 Avenue, But, 13800 Butterworth, Penang<BR><B>LATITUDE</B> = 5.44534<BR><B>LONGITUDE</B> = 100.43013]]></description>
+      <name>Pizza Hut R2 Avenue</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>100.4301300000,5.4453400000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Tanjung Tokong<BR><B>PHONE_NO</B> = 04-890 5141<BR><B>ADDRESS</B> = B-G-6 & B-G-7, Vantage, Jalan Desiran Tanjung, Seri Tanjung Pinang, 10470 Tanjung Tokong, Pulau Pinang<BR><B>LATITUDE</B> = 5.4564497<BR><B>LONGITUDE</B> = 100.3077303]]></description>
+      <name>Pizza Hut Tanjung Tokong</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>100.3077303000,5.4564497000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Vantage Point<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Ground Floor, No. 17-G, Vantage Point, J 11600 alan Lenggong Pulau Pinang MY, Jalan Lenggong, 11600 Jelutong, Pulau Pinang<BR><B>LATITUDE</B> = 5.396052<BR><B>LONGITUDE</B> = 100.316502]]></description>
+      <name>Pizza Hut Vantage Point</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>100.3165020000,5.3960520000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut<BR><B>PHONE_NO</B> = 1-800-75-2525<BR><B>ADDRESS</B> = Tesco E-Gate, Lebuh Tunku Kudin 1, 11700 Gelugor, Pulau Pinang<BR><B>LATITUDE</B> = 5.3773737<BR><B>LONGITUDE</B> = 100.3157243]]></description>
+      <name>Pizza Hut</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>100.3157243000,5.3773737000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut 1st Avenue<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Lot 8-03A & 8-03G, Level 8, Jalan Magazine, George Town, 10300 George Town, Pulau Pinang<BR><B>LATITUDE</B> = 5.4138875<BR><B>LONGITUDE</B> = 100.3305609]]></description>
+      <name>Pizza Hut 1st Avenue</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>100.3305609000,5.4138875000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Perangin Mall<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Ground Floor, Lot No. G-67, Prangin Mall Shopping Complex, Jalan Dr Lim Chwee Leong, 10100 George Town, Penang<BR><B>LATITUDE</B> = 5.4142647<BR><B>LONGITUDE</B> = 100.331333]]></description>
+      <name>Pizza Hut Perangin Mall</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>100.3313330000,5.4142647000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Restaurants<BR><B>PHONE_NO</B> = 04-332 5679<BR><B>ADDRESS</B> = Ground floor, Pusat Perniagaan Raja Uda 126 & 128, Jalan Raja Uda, Kampung Baharu, 12300 Butterworth, Pulau Pinang<BR><B>LATITUDE</B> = 5.4195533<BR><B>LONGITUDE</B> = 100.3809552]]></description>
+      <name>Pizza Hut Restaurants</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>100.3809552000,5.4195533000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = PH FARLIM 2<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = No. 16K, Thean Teik Hwy, Paya Terubong, 11060 Air Itam, Penang<BR><B>LATITUDE</B> = 5.3910782<BR><B>LONGITUDE</B> = 100.282939]]></description>
+      <name>PH FARLIM 2</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>100.2829390000,5.3910782000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Restaurants Sdn. Bhd.<BR><B>PHONE_NO</B> = 04-431 3780<BR><B>ADDRESS</B> = Giant Supermarket, Jalan Sungai Pasir, Taman Kampian, 08000 Sungai Petani, Kedah<BR><B>LATITUDE</B> = 5.640949<BR><B>LONGITUDE</B> = 100.493154]]></description>
+      <name>Pizza Hut Restaurants Sdn. Bhd.</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>100.4931540000,5.6409490000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Arau<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Kompleks Tok Arau, Jalan Arau Kodiang, Arau, 02600 Arau, Perlis<BR><B>LATITUDE</B> = 6.4275304<BR><B>LONGITUDE</B> = 100.2723459]]></description>
+      <name>Pizza Hut Arau</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>100.2723459000,6.4275304000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Amanjaya, 08000 Sungai Petani, Kedah<BR><B>LATITUDE</B> = 5.6739722<BR><B>LONGITUDE</B> = 100.509075]]></description>
+      <name>Pizza Hut</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>100.5090750000,5.6739722000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = PHD Sultanah<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = No 7, Kompleks Perniagaan Utama Sultanah Sambungan, Jalan Sultanah Sambungan, Al, 05150 Alor Setar, Kedah<BR><B>LATITUDE</B> = 6.1431259<BR><B>LONGITUDE</B> = 100.3663063]]></description>
+      <name>PHD Sultanah</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>100.3663063000,6.1431259000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = PHD Alor Setar<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = No. 55, Ground Floor, Kompleks Perniagaan Sultan Abdul Hamid, Persiaran Sultan A, 3, Persiaran Sultan Abdul Hamid, 05050, Kedah<BR><B>LATITUDE</B> = 6.1094464<BR><B>LONGITUDE</B> = 100.3612313]]></description>
+      <name>PHD Alor Setar</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>100.3612313000,6.1094464000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = PH LCSC Kulim<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Lot G1 & G2, Ground Floor, Landmark Central Shopping Centre, No.1, Jln Resak 1 09000 Kedah MY, 09000 Kulim, Kedah<BR><B>LATITUDE</B> = 5.3861743<BR><B>LONGITUDE</B> = 100.5465783]]></description>
+      <name>PH LCSC Kulim</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>100.5465783000,5.3861743000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = PHD Simpang Ampat<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Ground Floor, No. 1693, Jalan Besar, Simpang Ampat, 14100 Simpang Ampat, Pulau Pinang<BR><B>LATITUDE</B> = 5.2807059<BR><B>LONGITUDE</B> = 100.4770162]]></description>
+      <name>PHD Simpang Ampat</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>100.4770162000,5.2807059000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Langkawi<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = 43, Jalan Padang Matsirat, Kuah, 07000 Langkawi, Kedah<BR><B>LATITUDE</B> = 6.326567<BR><B>LONGITUDE</B> = 99.8423053]]></description>
+      <name>Pizza Hut Langkawi</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>99.8423053000,6.3265670000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Kulim<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = No. 170C, Jalan Tunku Putra, Taman Tunku Putra, 09000 Kulim, Kedah<BR><B>LATITUDE</B> = 5.3718419<BR><B>LONGITUDE</B> = 100.5553337]]></description>
+      <name>Pizza Hut Kulim</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>100.5553337000,5.3718419000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Gurun<BR><B>PHONE_NO</B> = 016-517 1356<BR><B>ADDRESS</B> = Kampung Sungai Ibor, 08300 Gurun, Kedah<BR><B>LATITUDE</B> = 5.8109307<BR><B>LONGITUDE</B> = 100.4785367]]></description>
+      <name>Pizza Hut Gurun</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>100.4785367000,5.8109307000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = PH Limbong Kulim<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = No 1, Jalan Limbong Kapal, Bandar Alor Setar, 05000 Alor Setar, Kedah<BR><B>LATITUDE</B> = 6.1163527<BR><B>LONGITUDE</B> = 100.3671457]]></description>
+      <name>PH Limbong Kulim</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>100.3671457000,6.1163527000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = PH Lagenda Village<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Lot No.G-31,G-32, G-33, Ground Floor Village Mall, Lagenda Heights, 08000 Sungai Petani, Kedah<BR><B>LATITUDE</B> = 5.659966<BR><B>LONGITUDE</B> = 100.5013144]]></description>
+      <name>PH Lagenda Village</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>100.5013144000,5.6599660000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut<BR><B>PHONE_NO</B> = 04-431 3820<BR><B>ADDRESS</B> = Sungai Petani Lot A17 & A18 & External Area, TF Petani, Jalsupermarket Sgan, 08000 Sungai Petani, Kedah<BR><B>LATITUDE</B> = 5.643589<BR><B>LONGITUDE</B> = 100.4894179]]></description>
+      <name>Pizza Hut</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>100.4894179000,5.6435890000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Baling<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = No.78, Ground & Mezzanine Floor, Jalan Badlishah, Baling, 09100 Baling, Kedah<BR><B>LATITUDE</B> = 5.6760156<BR><B>LONGITUDE</B> = 100.9190729]]></description>
+      <name>Pizza Hut Baling</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>100.9190729000,5.6760156000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut @ Aman Central<BR><B>PHONE_NO</B> = 013-539 8870<BR><B>ADDRESS</B> = level 2, Aman Central, 1, Darul Aman Highway, Kampung Lubok Peringgi, 05100 Alor Setar, Kedah<BR><B>LATITUDE</B> = 6.1255988<BR><B>LONGITUDE</B> = 100.3660347]]></description>
+      <name><![CDATA[Pizza Hut @ Aman Central]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>100.3660347000,6.1255988000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut<BR><B>PHONE_NO</B> = <BR><B>ADDRESS</B> = Jalan Utama Pekan Ulu Melaka, Mukim, Padang Matsirat, 07000 Langkawi, Kedah<BR><B>LATITUDE</B> = 6.350594<BR><B>LONGITUDE</B> = 99.730897]]></description>
+      <name>Pizza Hut</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>99.7308970000,6.3505940000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Sungai Petani<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = No.21, Jalan Tuanku Hamimah 1, Taman Tuanku Haminah, 08000 Sungai Petani, Kedah<BR><B>LATITUDE</B> = 5.6545179<BR><B>LONGITUDE</B> = 100.5149163]]></description>
+      <name>Pizza Hut Sungai Petani</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>100.5149163000,5.6545179000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut<BR><B>PHONE_NO</B> = 019-653 7687<BR><B>ADDRESS</B> = 502, Jalan BM 1/16, Bandar Mutiara, 08000 Sungai Petani, Kedah<BR><B>LATITUDE</B> = 5.6314267<BR><B>LONGITUDE</B> = 100.5398597]]></description>
+      <name>Pizza Hut</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>100.5398597000,5.6314267000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = PH Tesco Mergong<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Lot G22, Ground Floor, Tesco Mergong Alor Setar, No.1, Sultanah Bahiyah Highway, Bahiy, 05150 Alor Setar, Kedah<BR><B>LATITUDE</B> = 6.128635<BR><B>LONGITUDE</B> = 100.342023]]></description>
+      <name>PH Tesco Mergong</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>100.3420230000,6.1286350000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Delivery<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = No. 13, Jalan Pekan Changloon 2, Changlun, 06010 Jitra, Kedah<BR><B>LATITUDE</B> = 6.4347253<BR><B>LONGITUDE</B> = 100.4296297]]></description>
+      <name>Pizza Hut Delivery</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>100.4296297000,6.4347253000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut<BR><B>PHONE_NO</B> = <BR><B>ADDRESS</B> = 06700 Pendang, 06700 Pendang, Kedah<BR><B>LATITUDE</B> = 5.9907132<BR><B>LONGITUDE</B> = 100.4810698]]></description>
+      <name>Pizza Hut</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>100.4810698000,5.9907132000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Kangar<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = First Floor, No. 26 & 28, Kanger, Jalan Bukit Lagi, 01000 Kangar, Perlis<BR><B>LATITUDE</B> = 6.435332<BR><B>LONGITUDE</B> = 100.193754]]></description>
+      <name>Pizza Hut Kangar</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>100.1937540000,6.4353320000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Kuala Terengganu<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = No. 22B & No. 22C Ground Floors, Wisma Low Hai Whan, Jalan Sultan Ismail, 20200 Kuala Terengganu, Terengganu<BR><B>LATITUDE</B> = 5.3310276<BR><B>LONGITUDE</B> = 103.1334247]]></description>
+      <name>Pizza Hut Kuala Terengganu</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>103.1334247000,5.3310276000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Delivery Kuala Terengganu<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Jalan Sultan Sulaiman, 20100 Kuala Terengganu, Terengganu<BR><B>LATITUDE</B> = 5.3340654<BR><B>LONGITUDE</B> = 103.1391392]]></description>
+      <name>Pizza Hut Delivery Kuala Terengganu</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>103.1391392000,5.3340654000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Dataran Austin<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Shop Lot 35 - 361 and 362, Ground Floor, Dataran Austin, Jalan Austin 3, Kg Waka, 21300 Kuala Terengganu, Terengganu<BR><B>LATITUDE</B> = 5.3560493<BR><B>LONGITUDE</B> = 103.0956196]]></description>
+      <name>Pizza Hut Dataran Austin</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>103.0956196000,5.3560493000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Kemaman<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = K 49, Jalan Lebai Saras, 24000 Chukai, Terengganu<BR><B>LATITUDE</B> = 4.2328885<BR><B>LONGITUDE</B> = 103.4236756]]></description>
+      <name>Pizza Hut Kemaman</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>103.4236756000,4.2328885000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut<BR><B>PHONE_NO</B> = 09-631 9220<BR><B>ADDRESS</B> = F11, Lot PT 1485, Jalan Padang Hiliran, Chabang 3, Terengganu, 21100 Kuala Terengganu<BR><B>LATITUDE</B> = 5.310268<BR><B>LONGITUDE</B> = 103.128399]]></description>
+      <name>Pizza Hut</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>103.1283990000,5.3102680000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Dungun<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Lot No. 2 & 3 (Ground Floor),Sura Gate Business Centre, Phase 1A, 23000 Kuala Dungun, Terengganu<BR><B>LATITUDE</B> = 4.7587697<BR><B>LONGITUDE</B> = 103.4180463]]></description>
+      <name>Pizza Hut Dungun</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>103.4180463000,4.7587697000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Mesra Mall<BR><B>PHONE_NO</B> = 09-864 3498<BR><B>ADDRESS</B> = Jalan Kemaman - Dungun, Kampung Baru, 24210 Kemasik, Terengganu<BR><B>LATITUDE</B> = 4.4407495<BR><B>LONGITUDE</B> = 103.4478996]]></description>
+      <name>Pizza Hut Mesra Mall</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>103.4478996000,4.4407495000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = 21300, Kuala Terengganu, Terengganu<BR><B>LATITUDE</B> = 5.3963865<BR><B>LONGITUDE</B> = 103.0841559]]></description>
+      <name>Pizza Hut</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>103.0841559000,5.3963865000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Delivery Marang<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Lot PT 8917, Block A, Tingkat Bawah, Bandar, 21600 Marang, Terengganu<BR><B>LATITUDE</B> = 5.2072903<BR><B>LONGITUDE</B> = 103.2057642]]></description>
+      <name>Pizza Hut Delivery Marang</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>103.2057642000,5.2072903000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut<BR><B>PHONE_NO</B> = 085-424 488<BR><B>ADDRESS</B> = G18, Ground Floor, Lot, Bintang Plaza, Lot, 1219, Block 9, Jalan Miri Pujut, 98000 Miri, Sarawak<BR><B>LATITUDE</B> = 4.3976268<BR><B>LONGITUDE</B> = 113.9933658]]></description>
+      <name>Pizza Hut</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>113.9933658000,4.3976268000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut<BR><B>PHONE_NO</B> = 011-3650 6225<BR><B>ADDRESS</B> = 49, Jalan Masjid Lama, Bandar Sarikei, 96100 Sarikei, Sarawak<BR><B>LATITUDE</B> = 2.1308218<BR><B>LONGITUDE</B> = 111.5204788]]></description>
+      <name>Pizza Hut</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>111.5204788000,2.1308218000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut<BR><B>PHONE_NO</B> = 019-237 3454<BR><B>ADDRESS</B> = Permyjaya, 98000 Miri, Sarawak<BR><B>LATITUDE</B> = 4.4509082<BR><B>LONGITUDE</B> = 114.0390328]]></description>
+      <name>Pizza Hut</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>114.0390328000,4.4509082000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut (PHD Delivery Sdn Bhd)<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Kampung Siol Kandis, 93050 Kuching, Sarawak<BR><B>LATITUDE</B> = 1.5703812<BR><B>LONGITUDE</B> = 110.3600941]]></description>
+      <name>Pizza Hut (PHD Delivery Sdn Bhd)</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>110.3600941000,1.5703812000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Siburan<BR><B>PHONE_NO</B> = <BR><B>ADDRESS</B> = 94200 Siburan, Sarawak<BR><B>LATITUDE</B> = 1.3653294<BR><B>LONGITUDE</B> = 110.4021615]]></description>
+      <name>Pizza Hut Siburan</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>110.4021615000,1.3653294000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = PH PLZ Sarawak<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Ground Floor, Sarawak Plaza, Jalan Tunku Abdul Rahman, 93100 Kuching, Sarawak<BR><B>LATITUDE</B> = 1.557794<BR><B>LONGITUDE</B> = 110.3534122]]></description>
+      <name>PH PLZ Sarawak</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>110.3534122000,1.5577940000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = PH Boulevard<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = GB15 - GB16, Boulervard Shopping Mall, Jalan Datuk Tawi Sli, 3 1/2 Mile, 93250 Kuching, Sarawak<BR><B>LATITUDE</B> = 1.5094373<BR><B>LONGITUDE</B> = 110.3358734]]></description>
+      <name>PH Boulevard</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>110.3358734000,1.5094373000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = PH Metro City<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Lot 183 (corner lot) Lot 182 (intermediate lot), Metro City, Q309, Taman Fah Tah, 93050 Kuching, Sarawak<BR><B>LATITUDE</B> = 1.5667117<BR><B>LONGITUDE</B> = 110.3073193]]></description>
+      <name>PH Metro City</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>110.3073193000,1.5667117000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut @ AEON Kuching Central<BR><B>PHONE_NO</B> = <BR><B>ADDRESS</B> = Min Chu Garden, 93200 Kuching, Sarawak<BR><B>LATITUDE</B> = 1.5277547<BR><B>LONGITUDE</B> = 110.3369631]]></description>
+      <name><![CDATA[Pizza Hut @ AEON Kuching Central]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>110.3369631000,1.5277547000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = PH Tabuan Height<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Lot 47 Tabuan Heights Commercial Centre, Tabuan Jaya, Tabuan Heights, 93350 Kuching, Sarawak<BR><B>LATITUDE</B> = 1.5175238<BR><B>LONGITUDE</B> = 110.3660904]]></description>
+      <name>PH Tabuan Height</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>110.3660904000,1.5175238000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Restaurants Sdn. Bhd.<BR><B>PHONE_NO</B> = 085-246 888<BR><B>ADDRESS</B> = Lot 282, Jalan Tabuan, Taman Westwood, Sarawak, 93100 Kuching<BR><B>LATITUDE</B> = 1.5440724<BR><B>LONGITUDE</B> = 110.3539217]]></description>
+      <name>Pizza Hut Restaurants Sdn. Bhd.</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>110.3539217000,1.5440724000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Restaurant Sdn. Bhd.<BR><B>PHONE_NO</B> = 019-237 2673<BR><B>ADDRESS</B> = 93200 Kuching, Sarawak<BR><B>LATITUDE</B> = 1.5245684<BR><B>LONGITUDE</B> = 110.3418366]]></description>
+      <name>Pizza Hut Restaurant Sdn. Bhd.</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>110.3418366000,1.5245684000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut<BR><B>PHONE_NO</B> = <BR><B>ADDRESS</B> = Jalan Tabuan Tranquility, 93350 Kuching, Sarawak<BR><B>LATITUDE</B> = 1.5134525<BR><B>LONGITUDE</B> = 110.3918635]]></description>
+      <name>Pizza Hut</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>110.3918635000,1.5134525000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut @ kota sentosa<BR><B>PHONE_NO</B> = 019-237 2582<BR><B>ADDRESS</B> = 7th, Shoplot 23 & 23A, Sentosa Sentral, Jalan Penrissen, Kota Sentosa, 93250 Kuching, Sarawak<BR><B>LATITUDE</B> = 1.476056<BR><B>LONGITUDE</B> = 110.331083]]></description>
+      <name><![CDATA[Pizza Hut @ kota sentosa]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>110.3310830000,1.4760560000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut @ Jalan Song<BR><B>PHONE_NO</B> = 082-459 280<BR><B>ADDRESS</B> = Sublot 47 Tabuan Heights Commercial Centre, Tabuan Jaya, 93350 Kuching, Sarawak<BR><B>LATITUDE</B> = 1.5175478<BR><B>LONGITUDE</B> = 110.366111]]></description>
+      <name><![CDATA[Pizza Hut @ Jalan Song]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>110.3661110000,1.5175478000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut @ Jalan Satok<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Lot 285 Section 10, KLTD, Jalan Satok, 93450 Kuching, Sarawak<BR><B>LATITUDE</B> = 1.5528538<BR><B>LONGITUDE</B> = 110.335393]]></description>
+      <name><![CDATA[Pizza Hut @ Jalan Satok]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>110.3353930000,1.5528538000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut @ MJC<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = CG 101-102, Jalan Batu Kawa, Batu Kawa New Township, 93250 Kuching, Sarawak<BR><B>LATITUDE</B> = 1.5131919<BR><B>LONGITUDE</B> = 110.307882]]></description>
+      <name><![CDATA[Pizza Hut @ MJC]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>110.3078820000,1.5131919000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut @ The Spring Mall<BR><B>PHONE_NO</B> = 019-237 2957<BR><B>ADDRESS</B> = Lot 2678, Kampung Kenyalang Park, 93200 Kuching, Sarawak<BR><B>LATITUDE</B> = 1.5358635<BR><B>LONGITUDE</B> = 110.3580523]]></description>
+      <name><![CDATA[Pizza Hut @ The Spring Mall]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>110.3580523000,1.5358635000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Menggatal<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Shoplot No. 10, Block C, Lorong Taman Indah Shophouses, Taman Indah Permai, 88450 Menggatal, Sabah<BR><B>LATITUDE</B> = 6.0605645<BR><B>LONGITUDE</B> = 116.1502593]]></description>
+      <name>Pizza Hut Menggatal</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>116.1502593000,6.0605645000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Lot No.C-317, Lower Ground Floor, (Concourse Area), 1 Borneo Hypermall, Shopping, 88400 Kota Kinabalu, Sabah<BR><B>LATITUDE</B> = 6.0351964<BR><B>LONGITUDE</B> = 116.1283704]]></description>
+      <name>Pizza Hut</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>116.1283704000,6.0351964000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Ground Floor, Lot No.7&8, Block C, Jalan KK Taipan, Inanam, 88450 Kota Kinabalu, Sabah<BR><B>LATITUDE</B> = 5.9939837<BR><B>LONGITUDE</B> = 116.1376645]]></description>
+      <name>Pizza Hut</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>116.1376645000,5.9939837000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut<BR><B>PHONE_NO</B> = 017-277 1003<BR><B>ADDRESS</B> = Lorong Api - Api 1, Api-api Centre, 88000 Kota Kinabalu, Sabah<BR><B>LATITUDE</B> = 5.9770499<BR><B>LONGITUDE</B> = 116.070899]]></description>
+      <name>Pizza Hut</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>116.0708990000,5.9770499000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut<BR><B>PHONE_NO</B> = 011-1528 8239<BR><B>ADDRESS</B> = Servay Hyper Market, 89100 Kota Marudu, Sabah<BR><B>LATITUDE</B> = 6.4925954<BR><B>LONGITUDE</B> = 116.7612959]]></description>
+      <name>Pizza Hut</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>116.7612959000,6.4925954000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Putatan<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = No. Block A, Lot 3 & 4, Ground Floor, Jln Putatan, Central Plaza, 88300 Putatan, Sabah<BR><B>LATITUDE</B> = 5.897866<BR><B>LONGITUDE</B> = 116.04841]]></description>
+      <name>Pizza Hut Putatan</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>116.0484100000,5.8978660000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut<BR><B>PHONE_NO</B> = 019-237 3815<BR><B>ADDRESS</B> = Beaufort Commercial Centre 89800, 89800 Beaufort, Sabah<BR><B>LATITUDE</B> = 5.3439245<BR><B>LONGITUDE</B> = 115.7353687]]></description>
+      <name>Pizza Hut</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>115.7353687000,5.3439245000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Sepanggar<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Taman Indah Permai, 88400 Kota Kinabalu, Sabah<BR><B>LATITUDE</B> = 6.0604959<BR><B>LONGITUDE</B> = 116.1501492]]></description>
+      <name>Pizza Hut Sepanggar</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>116.1501492000,6.0604959000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = PH Giant Sandakan<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Lot A18, Giant Hypermarket Sandakan, Miles, 6, Jalan Taman Utama, 90000 Sandakan, Sabah<BR><B>LATITUDE</B> = 5.8664912<BR><B>LONGITUDE</B> = 118.0573778]]></description>
+      <name>PH Giant Sandakan</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>118.0573778000,5.8664912000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Tawau<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Ground Floor, No. 271, Lot 5, Block 28 Fajar Complex, 91000 Tawau, Sabah<BR><B>LATITUDE</B> = 4.245743<BR><B>LONGITUDE</B> = 117.8898226]]></description>
+      <name>Pizza Hut Tawau</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>117.8898226000,4.2457430000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Lot No. C317, Lower Ground Floor, 1Borneo Hypermall, Jalan Sulaman, 88400 Kota Kinabalu, Sabah<BR><B>LATITUDE</B> = 6.03543<BR><B>LONGITUDE</B> = 116.129211]]></description>
+      <name>Pizza Hut</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>116.1292110000,6.0354300000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut<BR><B>PHONE_NO</B> = 012-263 2547<BR><B>ADDRESS</B> = 1, Jalan Kastam, Pekan Semporna, 91308 Semporna, Sabah<BR><B>LATITUDE</B> = 4.4794178<BR><B>LONGITUDE</B> = 118.6178103]]></description>
+      <name>Pizza Hut</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>118.6178103000,4.4794178000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Lahad Datu<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Unit No: 1 & 2, Level 1, Linear Block A, Harbour Town, 91100 Lahad Datu, Sabah<BR><B>LATITUDE</B> = 5.024417<BR><B>LONGITUDE</B> = 118.338361]]></description>
+      <name>Pizza Hut Lahad Datu</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>118.3383610000,5.0244170000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Bandar Pasaraya<BR><B>PHONE_NO</B> = <BR><B>ADDRESS</B> = 4, Lorong Pasaraya 3, Bandar Pasaraya, 90000 Sandakan, Sabah<BR><B>LATITUDE</B> = 5.8571613<BR><B>LONGITUDE</B> = 118.0799218]]></description>
+      <name>Pizza Hut Bandar Pasaraya</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>118.0799218000,5.8571613000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Papar Point<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Lot 20, Ground Floor, Papar Point, 89808 Pokok Sena, Sabah<BR><B>LATITUDE</B> = 5.7289794<BR><B>LONGITUDE</B> = 115.9338078]]></description>
+      <name>Pizza Hut Papar Point</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>115.9338078000,5.7289794000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = PH Keningau<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = TL No. 137502553 & 137502562, Ground & 1st Floor, Landscape Commercial Centre, K, 89008 Keningau, Sabah<BR><B>LATITUDE</B> = 5.3375815<BR><B>LONGITUDE</B> = 116.155778]]></description>
+      <name>PH Keningau</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>116.1557780000,5.3375815000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut<BR><B>PHONE_NO</B> = 088-546 790<BR><B>ADDRESS</B> = 89600 Papar, Sabah<BR><B>LATITUDE</B> = 5.6998442<BR><B>LONGITUDE</B> = 115.9367443]]></description>
+      <name>Pizza Hut</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>115.9367443000,5.6998442000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut Bandar Prima<BR><B>PHONE_NO</B> = 016-825 1645<BR><B>ADDRESS</B> = 24, Lor Prima 8, 90000 Sandakan, Sabah<BR><B>LATITUDE</B> = 5.8589529<BR><B>LONGITUDE</B> = 118.0736199]]></description>
+      <name>Pizza Hut Bandar Prima</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>118.0736199000,5.8589529000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut @ Taipan, Tawau<BR><B>PHONE_NO</B> = 019-237 8683<BR><B>ADDRESS</B> = Taipan,, Jalan Kuhara, 91000 Tawau, Sabah<BR><B>LATITUDE</B> = 4.2671789<BR><B>LONGITUDE</B> = 117.8964879]]></description>
+      <name><![CDATA[Pizza Hut @ Taipan, Tawau]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>117.8964879000,4.2671789000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = CL 015367254, Kg Darau, Menggatal, Kota Kinabalu, 88450 Sabah<BR><B>LATITUDE</B> = 6.024239<BR><B>LONGITUDE</B> = 116.1432142]]></description>
+      <name>Pizza Hut</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>116.1432142000,6.0242390000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = PH Lintas Plaza<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Lot No. 16 & 18 Ground Floors, Lorong Lintas Square, Jalan Lintas, Lorong Lintas Plaza 2, 88300 Kota Kinabalu, Sabah<BR><B>LATITUDE</B> = 5.94557<BR><B>LONGITUDE</B> = 116.0885604]]></description>
+      <name>PH Lintas Plaza</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>116.0885604000,5.9455700000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Ground Floor, No. 120, Jalan Gaya, Pusat Bandar Kota Kinabalu, 88000 Kota Kinabalu, Sabah<BR><B>LATITUDE</B> = 5.9828517<BR><B>LONGITUDE</B> = 116.0764318]]></description>
+      <name>Pizza Hut</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>116.0764318000,5.9828517000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut<BR><B>PHONE_NO</B> = 019-237 0120<BR><B>ADDRESS</B> = Ground & 1st Floor Plaza Juta, Lot 21, Jalan Tuaran, 88400 Kota Kinabalu, Sabah<BR><B>LATITUDE</B> = 5.9926009<BR><B>LONGITUDE</B> = 116.112439]]></description>
+      <name>Pizza Hut</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>116.1124390000,5.9926009000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut<BR><B>PHONE_NO</B> = 088-274 275<BR><B>ADDRESS</B> = B08-B09 Imago Shopping Mall, Jalan Coastal, 88100 Kota Kinabalu, Sabah<BR><B>LATITUDE</B> = 5.9699123<BR><B>LONGITUDE</B> = 116.06448]]></description>
+      <name>Pizza Hut</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>116.0644800000,5.9699123000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut City Mall KK<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Lot 5, Ground Floor, City Mall, Kota Kinabalu, 88300 Sebah, Sabah<BR><B>LATITUDE</B> = 5.9610194<BR><B>LONGITUDE</B> = 116.0971589]]></description>
+      <name>Pizza Hut City Mall KK</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>116.0971589000,5.9610194000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Lot No A6-0,A6-1, Ground Floor 7 1st Floor,Grand Putatan Plaza, 88200 Kota Kinabalu, Sabah<BR><B>LATITUDE</B> = 5.8914228<BR><B>LONGITUDE</B> = 116.0502412]]></description>
+      <name>Pizza Hut</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>116.0502412000,5.8914228000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Lot No B-74, Lower Ground Floor, Suria Sabah Shopping Mall, Kota Kinabalu, 88000 Kota Kinabalu, Sabah<BR><B>LATITUDE</B> = 5.9877<BR><B>LONGITUDE</B> = 116.0777098]]></description>
+      <name>Pizza Hut</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>116.0777098000,5.9877000000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Pizza Hut<BR><B>PHONE_NO</B> = 011-5914 2525<BR><B>ADDRESS</B> = Bandar Labuan, 87000 Labuan, Labuan Federal Territory<BR><B>LATITUDE</B> = 5.2772182<BR><B>LONGITUDE</B> = 115.2429805]]></description>
+      <name>Pizza Hut</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>115.2429805000,5.2772182000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = PH Labuan<BR><B>PHONE_NO</B> = 1-300-88-2525<BR><B>ADDRESS</B> = Unit No. C004 & D003, Ground Floor, Financial Park, 87000, Wilayah Persekutuan Labuan<BR><B>LATITUDE</B> = 5.276372<BR><B>LONGITUDE</B> = 115.249392]]></description>
+      <name>PH Labuan</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>115.2493920000,5.2763720000,0</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+</Document>
+</kml>

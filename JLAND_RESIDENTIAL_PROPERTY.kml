@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+<Document>
+  <!-- Begin Style Definitions -->
+  <Style id="point1">
+    <IconStyle><Icon>kml_symbol_dot - red_0.png</Icon></IconStyle>
+  </Style>
+  <Folder>
+    <name>Point Features</name>
+    <description>Point Features</description>
+    <Placemark>
+      <description><![CDATA[Property<BR><BR><B>NAME</B> = Perjiranan 2 (B' Onn Hills Villa)<BR><B>ADDRESS</B> = Perjiranan 2,  Bandar Dato' Onn, 81100 Johor Bahru, Johor<BR><B>LATITUDE</B> = 1.557196427<BR><B>LONGITUDE</B> = 103.7379781679]]></description>
+      <name><![CDATA[Perjiranan 2 (B' Onn Hills Villa)]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>103.7379781679,1.5571964270,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Property<BR><BR><B>NAME</B> = Perjiranan 9 (Phase 2)<BR><B>ADDRESS</B> = Perjiranan 9,  Bandar Dato' Onn, 81100 Johor Bahru, Johor<BR><B>LATITUDE</B> = 1.5683599207<BR><B>LONGITUDE</B> = 103.7386799799]]></description>
+      <name>Perjiranan 9 (Phase 2)</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>103.7386799799,1.5683599207,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Property<BR><BR><B>NAME</B> = Taman Bukit Dahlia, Pasir Gudang<BR><B>ADDRESS</B> = Taman Bukit Dahlia, 81700 Pasir Gudang, Johor<BR><B>LATITUDE</B> = 1.4805258787<BR><B>LONGITUDE</B> = 103.8991145445]]></description>
+      <name>Taman Bukit Dahlia, Pasir Gudang</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>103.8991145445,1.4805258787,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Property<BR><BR><B>NAME</B> = Taman Bukit Tiram, Tiram<BR><B>ADDRESS</B> = Taman Bukit Tiram, 81800, Ulu Tiram, Johor<BR><B>LATITUDE</B> = 1.6114900109<BR><B>LONGITUDE</B> = 103.8147638639]]></description>
+      <name>Taman Bukit Tiram, Tiram</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>103.8147638639,1.6114900109,-999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Property<BR><BR><B>NAME</B> = Taman Mutiara Gading (Phase 2)<BR><B>ADDRESS</B> = Taman Mutiara Gading (Phase 2), 83300 Batu Pahat, Johor<BR><B>LATITUDE</B> = 1.8614057466<BR><B>LONGITUDE</B> = 102.9894670879]]></description>
+      <name>Taman Mutiara Gading (Phase 2)</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>102.9894670879,1.8614057466,0</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+</Document>
+</kml>

@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+<Document>
+  <!-- Begin Style Definitions -->
+  <Style id="point1">
+    <IconStyle><Icon>kml_symbol_hospital_0.png</Icon></IconStyle>
+  </Style>
+  <Folder>
+    <name>Point Features</name>
+    <description>Point Features</description>
+    <Placemark>
+      <description><![CDATA[Hospital<BR><BR><B>NAME</B> = KPJ Johor Specialist Hospital<BR><B>ADDRESS</B> = 39B, Jalan Abdul Samad, Kolam Ayer, 80100 Johor Bahru, Johor<BR><B>PHONE_NO</B> = 07-225 3000<BR><B>LATITUDE</B> = 1.4759835<BR><B>LONGITUDE</B> = 103.7410923]]></description>
+      <name>KPJ Johor Specialist Hospital</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>103.7410923000,1.4759835000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Hospital<BR><BR><B>NAME</B> = KPJ Healthcare Berhad<BR><B>ADDRESS</B> = 400, Lorong Malaysia 1, Taman Malaysia, 05250 Alor Setar, Kedah<BR><B>PHONE_NO</B> = 04-730 8878<BR><B>LATITUDE</B> = 6.1487<BR><B>LONGITUDE</B> = 100.36947]]></description>
+      <name>KPJ Healthcare Berhad</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>100.3694700000,6.1487000000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Hospital<BR><BR><B>NAME</B> = KPJ Perdana Specialist Hospital<BR><B>ADDRESS</B> = PT 37& 600, Jalan Bayam, Bandar Kota Bharu, 15200 Kota Bharu, Kelantan<BR><B>PHONE_NO</B> = 09-745 8000<BR><B>LATITUDE</B> = 6.1217<BR><B>LONGITUDE</B> = 102.2436092]]></description>
+      <name>KPJ Perdana Specialist Hospital</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>102.2436092000,6.1217000000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Hospital<BR><BR><B>NAME</B> = KPJ Tawakkal KL Specialist Hospital<BR><B>ADDRESS</B> = 1, Jalan Pahang Barat, Pekeliling, 53000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur<BR><B>PHONE_NO</B> = 03-4026 7777<BR><B>LATITUDE</B> = 3.1769514<BR><B>LONGITUDE</B> = 101.6986424]]></description>
+      <name>KPJ Tawakkal KL Specialist Hospital</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.6986424000,3.1769514000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Hospital<BR><BR><B>NAME</B> = KPJ Sentosa KL Specialist Hospital<BR><B>ADDRESS</B> = Kompleks Damai, 36, Jalan Cemur, 50400 WP, Wilayah Persekutuan Kuala Lumpur<BR><B>PHONE_NO</B> = 03-4043 7166<BR><B>LATITUDE</B> = 3.1708655<BR><B>LONGITUDE</B> = 101.6971591]]></description>
+      <name>KPJ Sentosa KL Specialist Hospital</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.6971591000,3.1708655000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Hospital<BR><BR><B>NAME</B> = KPJ Seremban Specialist Hospital<BR><B>ADDRESS</B> = Lot 6219& 6220, Jalan Toman 1, Kemayan Square, 70200 Seremban, Negeri Sembilan<BR><B>PHONE_NO</B> = 06-768 6000<BR><B>LATITUDE</B> = 2.718525<BR><B>LONGITUDE</B> = 101.921826]]></description>
+      <name>KPJ Seremban Specialist Hospital</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.9218260000,2.7185250000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Hospital<BR><BR><B>NAME</B> = KPJ Healthcare University College<BR><B>ADDRESS</B> = Lot PT 17010 Persiaran Seriemas, Kota Seriemas, 71800 Nilai, Negeri Sembilan<BR><B>PHONE_NO</B> = 1-300-88-5758<BR><B>LATITUDE</B> = 2.779599<BR><B>LONGITUDE</B> = 101.773264]]></description>
+      <name>KPJ Healthcare University College</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.7732640000,2.7795990000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Hospital<BR><BR><B>NAME</B> = KPJ Pahang Specialist Hospital<BR><B>ADDRESS</B> = Jalan Tanjung Lumpur, 26060 Kuantan, Pahang<BR><B>PHONE_NO</B> = 09-511 2692<BR><B>LATITUDE</B> = 3.7999731<BR><B>LONGITUDE</B> = 103.3366227]]></description>
+      <name>KPJ Pahang Specialist Hospital</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>103.3366227000,3.7999731000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Hospital<BR><BR><B>NAME</B> = KPJ Penang Specialist Hospital<BR><B>ADDRESS</B> = 570, Jln Perda Utama, Bandar Baru Perda, 14000 Bukit Mertajam, Pulau Pinang<BR><B>PHONE_NO</B> = 04-548 6688<BR><B>LATITUDE</B> = 5.36913<BR><B>LONGITUDE</B> = 100.434293]]></description>
+      <name>KPJ Penang Specialist Hospital</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>100.4342930000,5.3691300000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Hospital<BR><BR><B>NAME</B> = KPJ Ipoh Specialist Hospital<BR><B>ADDRESS</B> = 26, Jalan Raja Dihilir, 30350 Ipoh, Perak<BR><B>PHONE_NO</B> = 05-240 8777<BR><B>LATITUDE</B> = 4.5948899<BR><B>LONGITUDE</B> = 101.0961291]]></description>
+      <name>KPJ Ipoh Specialist Hospital</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.0961291000,4.5948899000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Hospital<BR><BR><B>NAME</B> = KPJ Sri Manjung Specialist Hospital<BR><B>ADDRESS</B> = Lot 14777, Jalan Lumut, 32000 Sitiawan, Perak<BR><B>PHONE_NO</B> = 05-691 8153<BR><B>LATITUDE</B> = 4.2077181<BR><B>LONGITUDE</B> = 100.6751812]]></description>
+      <name>KPJ Sri Manjung Specialist Hospital</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>100.6751812000,4.2077181000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Hospital<BR><BR><B>NAME</B> = KPJ Taiping Medical Centre<BR><B>ADDRESS</B> = 45-49, Jalan Medan Taiping 2, Medan Taiping, 34000 Taiping, Perak<BR><B>PHONE_NO</B> = 05-807 1049<BR><B>LATITUDE</B> = 4.8474791<BR><B>LONGITUDE</B> = 100.7324828]]></description>
+      <name>KPJ Taiping Medical Centre</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>100.7324828000,4.8474791000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Hospital<BR><BR><B>NAME</B> = KPJ Perlis Specialist Hospital (Hospital Pakar KPJ Perlis)<BR><B>ADDRESS</B> = No. 77, Jalan Dato Wan Ahmad, 01000 Kangar, Perlis<BR><B>PHONE_NO</B> = 04-970 7777<BR><B>LATITUDE</B> = 6.4332029<BR><B>LONGITUDE</B> = 100.1864547]]></description>
+      <name>KPJ Perlis Specialist Hospital (Hospital Pakar KPJ Perlis)</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>100.1864547000,6.4332029000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Hospital<BR><BR><B>NAME</B> = KPJ Kajang Specialist Hospital<BR><B>ADDRESS</B> = Jalan Cheras, Kampung Sungai Kantan, 43000 Kajang, Selangor<BR><B>PHONE_NO</B> = 03-8769 2999<BR><B>LATITUDE</B> = 2.9999093<BR><B>LONGITUDE</B> = 101.7857178]]></description>
+      <name>KPJ Kajang Specialist Hospital</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.7857178000,2.9999093000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Hospital<BR><BR><B>NAME</B> = KPJ Kuching Specialist Hospital<BR><B>ADDRESS</B> = Lot 18807, Block 11, Muara Tebas Land District, Jalan Stutong, 93250 Kuching, Sarawak<BR><B>PHONE_NO</B> = 082-365 777<BR><B>LATITUDE</B> = 1.5058335<BR><B>LONGITUDE</B> = 110.3660038]]></description>
+      <name>KPJ Kuching Specialist Hospital</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>110.3660038000,1.5058335000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Hospital<BR><BR><B>NAME</B> = KPJ Sibu Specialist Medical Centre<BR><B>ADDRESS</B> = No 52A-G, Persiaran Brooke, Pekan Sibu, 96000 Sibu, Sarawak<BR><B>PHONE_NO</B> = 084-329 900<BR><B>LATITUDE</B> = 2.3009592<BR><B>LONGITUDE</B> = 111.83229]]></description>
+      <name>KPJ Sibu Specialist Medical Centre</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>111.8322900000,2.3009592000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Hospital<BR><BR><B>NAME</B> = New KPJ Hospital<BR><B>ADDRESS</B> = 93250 Kuching, Sarawak<BR><B>PHONE_NO</B> = -<BR><B>LATITUDE</B> = 1.5e+000<BR><B>LONGITUDE</B> = 1.104e+002]]></description>
+      <name>New KPJ Hospital</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>110.3660389000,1.5064031000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Hospital<BR><BR><B>NAME</B> = KPJ Miri Specialist Hospital<BR><B>ADDRESS</B> = Lot 8836, Block 11, Kuala Baram By Pass Rd, Bandar Baru Permyjaya, 98000 Miri, Sarawak<BR><B>PHONE_NO</B> = 085-649 999<BR><B>LATITUDE</B> = 4.448113<BR><B>LONGITUDE</B> = 114.0340083]]></description>
+      <name>KPJ Miri Specialist Hospital</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>114.0340083000,4.4481130000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Hospital<BR><BR><B>NAME</B> = KPJ Sabah Specialist Hospital<BR><B>ADDRESS</B> = KPJ SABAH SPECIALIST HOSPITAL Lot No.2, Off, Jalan Damai, Luyang Commercial Centre, 88300 Kota Kina*<BR><B>PHONE_NO</B> = 088-322 000<BR><B>LATITUDE</B> = 5.9671364<BR><B>LONGITUDE</B> = 116.093055]]></description>
+      <name>KPJ Sabah Specialist Hospital</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>116.0930550000,5.9671364000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Hospital<BR><BR><B>NAME</B> = KPJ Selangor Specialist Hospital<BR><B>ADDRESS</B> = Jalan Singa 20/1, Seksyen 20, 40300 Shah Alam, Selangor<BR><B>PHONE_NO</B> = 03-5543 1111<BR><B>LATITUDE</B> = 3.0573727<BR><B>LONGITUDE</B> = 101.5407779]]></description>
+      <name>KPJ Selangor Specialist Hospital</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.5407779000,3.0573727000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Hospital<BR><BR><B>NAME</B> = KPJ Klang Specialist Hospital<BR><B>ADDRESS</B> = 102, Persiaran Rajawali/Ku1, Bandar Baru Klang, 41150 Klang, Selangor<BR><B>PHONE_NO</B> = 03-3377 7888<BR><B>LATITUDE</B> = 3.062302<BR><B>LONGITUDE</B> = 101.4633548]]></description>
+      <name>KPJ Klang Specialist Hospital</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.4633548000,3.0623020000,0</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+</Document>
+</kml>

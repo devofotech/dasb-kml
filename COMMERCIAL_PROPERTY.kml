@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+<Document>
+  <!-- Begin Style Definitions -->
+  <Style id="point1">
+    <IconStyle><Icon>kml_symbol_dot - red_0.png</Icon></IconStyle>
+  </Style>
+  <Folder>
+    <name>Point Features</name>
+    <description>Point Features</description>
+    <Placemark>
+      <description><![CDATA[Property<BR><BR><B>NAME</B> = P.P Taman Dahlia<BR><B>address</B> = No 11-12 Blok A4 Pusat Perniagaan, Pasar Taman Dahlia, 81200 Johor Bahru, Johor<BR><B>LATITUDE</B> = 1.508654<BR><B>LONGITUDE</B> = 103.6965938]]></description>
+      <name>P.P Taman Dahlia</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>103.6965938000,1.5086540000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Property<BR><BR><B>NAME</B> = Menara JLand<BR><B>address</B> = MENARA JLAND, ,8000, Jalan Wong Ah Fook, 80000 Johor Bahru, Johor<BR><B>LATITUDE</B> = 1.464575<BR><B>LONGITUDE</B> = 103.7621832]]></description>
+      <name>Menara JLand</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>103.7621832000,1.4645750000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Property<BR><BR><B>NAME</B> = Menara Komtar<BR><B>address</B> = Menara KOMTAR, Level 13, City Centre, 80000 Johor Bahru, Johor<BR><B>LATITUDE</B> = 1.4638655<BR><B>LONGITUDE</B> = 103.7627395]]></description>
+      <name>Menara Komtar</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>103.7627395000,1.4638655000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Property<BR><BR><B>NAME</B> = Menara Ansar<BR><B>address</B> = 65, Jalan Trus, Bandar Johor Bahru, 80000 Johor Bahru, Johor<BR><B>LATITUDE</B> = 1.4603456<BR><B>LONGITUDE</B> = 103.7629508]]></description>
+      <name>Menara Ansar</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>103.7629508000,1.4603456000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Property<BR><BR><B>NAME</B> = Larkin Sentral<BR><B>address</B> = BT 5, Jalan Garuda, Larkin Jaya, 80350 Johor Bahru, Johor<BR><B>LATITUDE</B> = 1.4955912<BR><B>LONGITUDE</B> = 103.7417417]]></description>
+      <name>Larkin Sentral</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>103.7417417000,1.4955912000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Property<BR><BR><B>NAME</B> = Komtar JBCC<BR><B>address</B> = KOMTAR JBCC, City Centre, 80000 Johor Bahru, Johor<BR><B>LATITUDE</B> = 1.4639632<BR><B>LONGITUDE</B> = 103.7627382]]></description>
+      <name>Komtar JBCC</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>103.7627382000,1.4639632000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Property<BR><BR><B>NAME</B> = Galleria@Kotaraya<BR><B>address</B> = Jalan Trus, UTC, 80000 Johor Bahru, Johor<BR><B>LATITUDE</B> = 1.4594943<BR><B>LONGITUDE</B> = 103.7630603]]></description>
+      <name><![CDATA[Galleria@Kotaraya]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>103.7630603000,1.4594943000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Property<BR><BR><B>NAME</B> = B5 Johor Street Market<BR><B>address</B> = Jalan Nenas, Pusat Bandar Tampoi, 81200 Johor Bahru, Johor<BR><B>LATITUDE</B> = 1.4965081<BR><B>LONGITUDE</B> = 103.7040953]]></description>
+      <name>B5 Johor Street Market</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>103.7040953000,1.4965081000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Property<BR><BR><B>NAME</B> = @Mart Kempas<BR><B>address</B> = Taman Cempaka, 81200 Johor Bahru, Johor<BR><B>LATITUDE</B> = 1.5142109<BR><B>LONGITUDE</B> = 103.7030347]]></description>
+      <name><![CDATA[@Mart Kempas]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>103.7030347000,1.5142109000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Property<BR><BR><B>NAME</B> = Menara JCorp<BR><B>address</B> = 249, Jln Tun Razak, Imbi, 50100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur<BR><B>LATITUDE</B> = 3.1435628<BR><B>LONGITUDE</B> = 101.7211123]]></description>
+      <name>Menara JCorp</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.7211123000,3.1435628000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Property<BR><BR><B>NAME</B> = MCHM<BR><B>address</B> = 1, Jln Dato' Onn 1, Bandar Dato Onn, 81100 Johor Bahru, Johor<BR><B>LATITUDE</B> = 1.5558963<BR><B>LONGITUDE</B> = 103.7349197]]></description>
+      <name>MCHM</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>103.7349197000,1.5558963000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Property<BR><BR><B>NAME</B> = Menara VSQ<BR><B>address</B> = No. 51, Jln Utara, Pjs 52, 46200 Petaling Jaya, Selangor<BR><B>LATITUDE</B> = 3.1067944<BR><B>LONGITUDE</B> = 101.639773]]></description>
+      <name>Menara VSQ</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.6397730000,3.1067944000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Property<BR><BR><B>NAME</B> = Menara KPJ<BR><B>address</B> = Menara KPJ Healthcare Berhad, 238, Jln Tun Razak, Imbi, 54100 Kuala Lumpur<BR><B>LATITUDE</B> = 3.1685832<BR><B>LONGITUDE</B> = 101.7131611]]></description>
+      <name>Menara KPJ</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.7131611000,3.1685832000,0</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+</Document>
+</kml>

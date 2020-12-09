@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+<Document>
+  <!-- Begin Style Definitions -->
+  <Style id="point1">
+    <IconStyle><Icon>kml_symbol_restaurant_0.png</Icon></IconStyle>
+  </Style>
+  <Folder>
+    <name>Point Features</name>
+    <description>Point Features</description>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Ayamas Shop @Bandar Baru Uda<BR><B>ADDRESS</B> = 16, Jalan Padi Emas 4/1, Bandar Baru Uda, 81200 Johor Bahru, Johor, Malaysia<BR><B>PHONE_NO</B> = +60 7-238 8452<BR><B>LAT</B> = 1.4989662<BR><B>LONG</B> = 103.710386]]></description>
+      <name><![CDATA[Ayamas Shop @Bandar Baru Uda]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>103.7103860000,1.4989662000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Ayamas Shop @Taman University<BR><B>ADDRESS</B> = 22, Jalan Kebudayaan 5, Taman Universiti, 81300 Skudai, Johor, Malaysia<BR><B>PHONE_NO</B> = +60 19-350 9581<BR><B>LAT</B> = 1.5402393<BR><B>LONG</B> = 103.6284217]]></description>
+      <name><![CDATA[Ayamas Shop @Taman University]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>103.6284217000,1.5402393000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Ayamas @ Pasir Gudang<BR><B>ADDRESS</B> = 8, Jalan Sejambak 13, Taman Bukit Dahlia, 81700 Pasir Gudang, Johor, Malaysia<BR><B>PHONE_NO</B> = +60 19-623 3957<BR><B>LAT</B> = 1.4790934<BR><B>LONG</B> = 103.893796]]></description>
+      <name><![CDATA[Ayamas @ Pasir Gudang]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>103.8937960000,1.4790934000,-999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Ayamas Johore<BR><B>ADDRESS</B> = kawasan perindustrian fasa 1, Bandar Tenggara, Kulai, Johor, Malaysia<BR><B>PHONE_NO</B> = +60 7-896 4423<BR><B>LAT</B> = 1.8886046<BR><B>LONG</B> = 103.6108452]]></description>
+      <name>Ayamas Johore</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>103.6108452000,1.8886046000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Ayamas Jusafariah<BR><B>ADDRESS</B> = Jalan Hajah Jusafariah , Bandar Tenggara Alam, 81000 Kulai, Johor, Malaysia<BR><B>PHONE_NO</B> = +60 7-896 4398<BR><B>LAT</B> = 1.8805543<BR><B>LONG</B> = 103.6111858]]></description>
+      <name>Ayamas Jusafariah</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>103.6111858000,1.8805543000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Kedai Ayamas@Sungai Petani<BR><B>ADDRESS</B> = 08000 Sungai Petani, Kedah, Malaysia<BR><B>PHONE_NO</B> = +60 19-350 8553<BR><B>LAT</B> = 5.6540824<BR><B>LONG</B> = 100.5139938]]></description>
+      <name><![CDATA[Kedai Ayamas@Sungai Petani]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>100.5139938000,5.6540824000,-999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Ayamas Aman Sentral<BR><B>ADDRESS</B> = Aman Central, LG22, Kampung Lubok Peringgi, 05150 Alor Setar, Kedah, Malaysia<BR><B>PHONE_NO</B> = +60 19-623 4302<BR><B>LAT</B> = 6.12396<BR><B>LONG</B> = 100.3665951]]></description>
+      <name>Ayamas Aman Sentral</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>100.3665951000,6.1239600000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Kedai Ayamas @ Bandar Darulaman Jaya<BR><B>ADDRESS</B> = 58A, Bandar Darulaman Jaya, 06000 Jitra, Kedah, Malaysia<BR><B>PHONE_NO</B> = +60 12-382 1549<BR><B>LAT</B> = 6.2427219<BR><B>LONG</B> = 100.4204757]]></description>
+      <name><![CDATA[Kedai Ayamas @ Bandar Darulaman Jaya]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>100.4204757000,6.2427219000,-999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Ayamas KB<BR><B>ADDRESS</B> = Bandar Kota Bharu, 15200 Kota Bharu, Kelantan, Malaysia<BR><B>PHONE_NO</B> = +60 19-951 1355<BR><B>LAT</B> = 6.1137367<BR><B>LONG</B> = 102.2495483]]></description>
+      <name>Ayamas KB</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>102.2495483000,6.1137367000,-999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Kedai Ayamas @Taman Melawati<BR><B>ADDRESS</B> = 236, Jalan Bandar 13, Taman Melawati, 53100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia<BR><B>PHONE_NO</B> = +60 19-350 8370<BR><B>LAT</B> = 3.209553<BR><B>LONG</B> = 101.7494682]]></description>
+      <name><![CDATA[Kedai Ayamas @Taman Melawati]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.7494682000,3.2095530000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Kedai Ayamas @TTDI KL<BR><B>ADDRESS</B> = 7, Jalan Tun Mohd Fuad 3, Taman Tun Dr Ismail, 60000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia<BR><B>PHONE_NO</B> = +60 3-7728 8188<BR><B>LAT</B> = 3.1417189<BR><B>LONG</B> = 101.6285368]]></description>
+      <name><![CDATA[Kedai Ayamas @TTDI KL]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.6285368000,3.1417189000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Kedai Ayamas<BR><B>ADDRESS</B> = 15, Jalan Danau Lumayan 1, Bukit Mandarina Phase 1, 56000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia<BR><B>PHONE_NO</B> = +60 19-387 2673<BR><B>LAT</B> = 3.1007467<BR><B>LONG</B> = 101.7141435]]></description>
+      <name>Kedai Ayamas</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.7141435000,3.1007467000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Kedai Ayamas Bandar Sri Damansara<BR><B>ADDRESS</B> = G-8 Ground Floor Wisma K.S.C.H No. 3 PJU 9, Jalan Cempaka SD 12/1a, Bandar Sri Damansara, 52200 Kuala Lumpur, Malaysia<BR><B>PHONE_NO</B> = <BR><B>LAT</B> = 3.1958085<BR><B>LONG</B> = 101.6087448]]></description>
+      <name>Kedai Ayamas Bandar Sri Damansara</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.6087448000,3.1958085000,-999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Roaster Express KPJ Tawakal<BR><B>ADDRESS</B> = KPJ Tawakal Specialist Hospital, Lot No. 1, Jalan Pahang Barat, 53000 Kuala Lumpur, 53000, Malaysia<BR><B>PHONE_NO</B> = +60 19-351 3749<BR><B>LAT</B> = 3.1768072<BR><B>LONG</B> = 101.6987658]]></description>
+      <name>Roaster Express KPJ Tawakal</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.6987658000,3.1768072000,-999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Kedai Ayamas Bandar Baru Ampang<BR><B>ADDRESS</B> = No. 6G, Jalan Wawasan Ampang 2/12, Bandar Baru Ampang, 68000 Ampang, Selangor, Malaysia<BR><B>PHONE_NO</B> = +60 19-350 7906<BR><B>LAT</B> = 3.146633<BR><B>LONG</B> = 101.766144]]></description>
+      <name>Kedai Ayamas Bandar Baru Ampang</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.7661440000,3.1466330000,-999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Roaster Express Kedai Ayamas KL Convention Centre<BR><B>ADDRESS</B> = Concourse Level, Kuala Lumpur Convention Centre, Lot 3, 50450 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia<BR><B>PHONE_NO</B> = <BR><B>LAT</B> = 3.1538477<BR><B>LONG</B> = 101.7130649]]></description>
+      <name>Roaster Express Kedai Ayamas KL Convention Centre</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.7130649000,3.1538477000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Kedai Ayamas Kinrara<BR><B>ADDRESS</B> = 28A, Jalan TK 1/11a, Taman Kinrara Batu 7 1/2 Jalan Puchong, 47180 Puchong, Selangor, Malaysia<BR><B>PHONE_NO</B> = +60 19-350 9872<BR><B>LAT</B> = 3.0637482<BR><B>LONG</B> = 101.6482231]]></description>
+      <name>Kedai Ayamas Kinrara</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.6482231000,3.0637482000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Kedai Ayamas @Bandar Baru Selayang<BR><B>ADDRESS</B> = 73, Jalan 2/16, Baru Selayang, 68100 Batu Caves, Selangor, Malaysia<BR><B>PHONE_NO</B> = +60 3-6120 1886<BR><B>LAT</B> = 3.2563376<BR><B>LONG</B> = 101.656015]]></description>
+      <name><![CDATA[Kedai Ayamas @Bandar Baru Selayang]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.6560150000,3.2563376000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Ayamas (Setiawangsa)<BR><B>ADDRESS</B> = No.22, Jalan AU 1A/2, Taman Keramat, 54200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia<BR><B>PHONE_NO</B> = <BR><B>LAT</B> = 3.1721365<BR><B>LONG</B> = 101.736139]]></description>
+      <name>Ayamas (Setiawangsa)</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.7361390000,3.1721365000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Kedai Ayamas Taman Suntex<BR><B>ADDRESS</B> = No. 23, Jalan Kijang, Taman Suntex, 43200 Cheras, Selangor, Malaysia<BR><B>PHONE_NO</B> = +60 19-350 8258<BR><B>LAT</B> = 3.071753<BR><B>LONG</B> = 101.766684]]></description>
+      <name>Kedai Ayamas Taman Suntex</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.7666840000,3.0717530000,-999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Kedai Ayamas Subang Jaya SS15<BR><B>ADDRESS</B> = Ground Floor, C2, Jalan SS 15/4d, Ss 15, 47500 Subang Jaya, Selangor, Malaysia<BR><B>PHONE_NO</B> = +60 19-350 9112<BR><B>LAT</B> = 3.0736635<BR><B>LONG</B> = 101.5874058]]></description>
+      <name>Kedai Ayamas Subang Jaya SS15</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.5874058000,3.0736635000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Kedai Ayamas @Kota Damansara<BR><B>ADDRESS</B> = S-01-03 Emporis, Persiaran Surian, Kota Damansara, 47810 Petaling Jaya, Selangor, Malaysia<BR><B>PHONE_NO</B> = +60 3-7629 8744<BR><B>LAT</B> = 3.1574014<BR><B>LONG</B> = 101.5713622]]></description>
+      <name><![CDATA[Kedai Ayamas @Kota Damansara]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.5713622000,3.1574014000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Kedai Ayamas Kelana Jaya<BR><B>ADDRESS</B> = Ground Floor, 18A1, Jalan SS 6/3, Ss 6, 47301 Petaling Jaya, Selangor, Malaysia<BR><B>PHONE_NO</B> = +60 1-300-88-2323<BR><B>LAT</B> = 3.1055438<BR><B>LONG</B> = 101.6001175]]></description>
+      <name>Kedai Ayamas Kelana Jaya</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.6001175000,3.1055438000,-999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Kedai Ayamas Kiosk Matahari Mall<BR><B>ADDRESS</B> = Pusat Perniagaan Matahari Sdn Bhd, Lot No FC01,No1, Jalan PJS 2/18, Taman Maju Jaya, 46000 Petaling Jaya, Selangor, Malaysia<BR><B>PHONE_NO</B> = +60 16-628 4186<BR><B>LAT</B> = 3.0801087<BR><B>LONG</B> = 101.6379581]]></description>
+      <name>Kedai Ayamas Kiosk Matahari Mall</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.6379581000,3.0801087000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Rasa Ayamas<BR><B>ADDRESS</B> = B23&24, Lot 10243, Jalan Batu Caves, Bandar Selayang, Selangor, 68100 Daerah Gombak, Malaysia<BR><B>PHONE_NO</B> = +60 3-6187 4335<BR><B>LAT</B> = 3.2358548<BR><B>LONG</B> = 101.6864117]]></description>
+      <name>Rasa Ayamas</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.6864117000,3.2358548000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Kedai Ayamas Lestari Perdana<BR><B>ADDRESS</B> = No. 76, Jalan LP 1a/2, Lestari Perdana, 43000 Seri Kembangan, Selangor, Malaysia<BR><B>PHONE_NO</B> = +60 19-350 7113<BR><B>LAT</B> = 2.993454<BR><B>LONG</B> = 101.6733478]]></description>
+      <name>Kedai Ayamas Lestari Perdana</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.6733478000,2.9934540000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Kedai Ayamas @TTDI Jaya<BR><B>ADDRESS</B> = No. 25, Jalan Opera F U2/F, Taman TTDI Jaya, 40150 Shah Alam, Selangor, Malaysia<BR><B>PHONE_NO</B> = +60 3-5879 1416<BR><B>LAT</B> = 3.0978304<BR><B>LONG</B> = 101.5559988]]></description>
+      <name><![CDATA[Kedai Ayamas @TTDI Jaya]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.5559988000,3.0978304000,-999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Kedai Ayamas<BR><B>ADDRESS</B> = No, 10, Jalan SU 26, Taman Selayang Utama Industrial Park, 68100 Batu Caves, Selangor, Malaysia<BR><B>PHONE_NO</B> = +60 19-350 9056<BR><B>LAT</B> = 3.2329015<BR><B>LONG</B> = 101.6452302]]></description>
+      <name>Kedai Ayamas</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.6452302000,3.2329015000,-999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Kedai Ayamas Prima Saujana<BR><B>ADDRESS</B> = No. Lot A-33-GB, Jalan Prima Saujana 2/A, Taman Prima Saujana, Selangor, 43000 Kajang, Malaysia<BR><B>PHONE_NO</B> = +60 3-8733 2439<BR><B>LAT</B> = 3.0085573<BR><B>LONG</B> = 101.8055961]]></description>
+      <name>Kedai Ayamas Prima Saujana</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.8055961000,3.0085573000,-999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Kedai Ayamas Bandar Baru Bangi<BR><B>ADDRESS</B> = No. 39, Ground Floor, Jalan Medan PB 2B, Seksyen 9, Bandar Baru Bangi, 43650 Bangi, Selangor, Malaysia<BR><B>PHONE_NO</B> = +60 3-8211 2454<BR><B>LAT</B> = 2.9614097<BR><B>LONG</B> = 101.7519925]]></description>
+      <name>Kedai Ayamas Bandar Baru Bangi</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.7519925000,2.9614097000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Kedai Ayamas Bukit Jelutong<BR><B>ADDRESS</B> = Bukit Jelutong, 40150 Shah Alam, Selangor, Malaysia<BR><B>PHONE_NO</B> = +60 14-334 9545<BR><B>LAT</B> = 3.1032032<BR><B>LONG</B> = 101.527824]]></description>
+      <name>Kedai Ayamas Bukit Jelutong</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.5278240000,3.1032032000,-999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Kedai Ayamas @Puchong Permai<BR><B>ADDRESS</B> = 11, Jalan Puchong Permai 2, Taman Puchong Permai, 47100 Puchong, Selangor, Malaysia<BR><B>PHONE_NO</B> = +60 19-351 3639<BR><B>LAT</B> = 3.0089882<BR><B>LONG</B> = 101.5997483]]></description>
+      <name><![CDATA[Kedai Ayamas @Puchong Permai]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.5997483000,3.0089882000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Deli Ayamas Kota Kemuning<BR><B>ADDRESS</B> = No.37 Ground Floor, Jalan Anggerik Vanilla, Kota Kemuning, 40460 Shah Alam, Selangor, Malaysia<BR><B>PHONE_NO</B> = +60 19-350 7196<BR><B>LAT</B> = 3.0031724<BR><B>LONG</B> = 101.538887]]></description>
+      <name>Deli Ayamas Kota Kemuning</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.5388870000,3.0031724000,-999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Kedai Ayamas Shah Alam Seksyen 18<BR><B>ADDRESS</B> = 41, Jalan Pinang B 18/B, Seksyen 18, 40200 Shah Alam, Selangor, Malaysia<BR><B>PHONE_NO</B> = +60 14-334 0545<BR><B>LAT</B> = 3.0439724<BR><B>LONG</B> = 101.5181811]]></description>
+      <name>Kedai Ayamas Shah Alam Seksyen 18</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.5181811000,3.0439724000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Kedai Ayamas @ Taman Cheng Baru<BR><B>ADDRESS</B> = Lot 88& 88, 1, Jalan Cb 1, Taman Cheng Baru, 75250 Malacca, Malaysia<BR><B>PHONE_NO</B> = +60 19-350 9730<BR><B>LAT</B> = 2.2711084<BR><B>LONG</B> = 102.2169593]]></description>
+      <name><![CDATA[Kedai Ayamas @ Taman Cheng Baru]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>102.2169593000,2.2711084000,-999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Kedai Ayamas @ Ujong Pasir<BR><B>ADDRESS</B> = Jalan PJ 18, Taman Pertam Jaya, 75050 Melaka, Malaysia<BR><B>PHONE_NO</B> = +60 19-350 9720<BR><B>LAT</B> = 2.1898001<BR><B>LONG</B> = 102.2783434]]></description>
+      <name><![CDATA[Kedai Ayamas @ Ujong Pasir]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>102.2783434000,2.1898001000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Kedai Ayamas @Bukit Beruang<BR><B>ADDRESS</B> = Jalan Bukit Beruang Utama 2, Taman Bukit Beruang Utama, 75450 Melaka, Malaysia<BR><B>PHONE_NO</B> = +60 11-2075 6746<BR><B>LAT</B> = 2.2531167<BR><B>LONG</B> = 102.2762977]]></description>
+      <name><![CDATA[Kedai Ayamas @Bukit Beruang]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>102.2762977000,2.2531167000,-999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Kedai Ayamas@Bukit Baru<BR><B>ADDRESS</B> = Bukit Baru, 75150 Malacca, Malaysia<BR><B>PHONE_NO</B> = +60 19-350 9769<BR><B>LAT</B> = 2.2167662<BR><B>LONG</B> = 102.2703124]]></description>
+      <name><![CDATA[Kedai Ayamas@Bukit Baru]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>102.2703124000,2.2167662000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Kedai Ayamas<BR><B>ADDRESS</B> = No. 26, Jalan Dato Sheikh Ahmad, Bandar Seremban, 70000 Seremban, Negeri Sembilan, Malaysia<BR><B>PHONE_NO</B> = +60 19-350 9644<BR><B>LAT</B> = 2.7241834<BR><B>LONG</B> = 101.9400628]]></description>
+      <name>Kedai Ayamas</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.9400628000,2.7241834000,-999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Kedai Ayamas@Senawang<BR><B>ADDRESS</B> = 162, Jalan Komersil Senawang 1, Taman Komersil Senawang, 70450 Seremban, Negeri Sembilan, Malaysia<BR><B>PHONE_NO</B> = +60 19-350 9622<BR><B>LAT</B> = 2.7041428<BR><B>LONG</B> = 101.9859328]]></description>
+      <name><![CDATA[Kedai Ayamas@Senawang]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.9859328000,2.7041428000,-999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Ayamas Seremban 2<BR><B>ADDRESS</B> = 74, Jalan S2 B21 Pusat Dagangan, 2, Seremban 2, 70300 Seremban, Negeri Sembilan, Malaysia<BR><B>PHONE_NO</B> = +60 6-601 2009<BR><B>LAT</B> = 2.6926253<BR><B>LONG</B> = 101.9039021]]></description>
+      <name>Ayamas Seremban 2</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.9039021000,2.6926253000,-999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Kedai Ayamas@Centerpoint Seremban<BR><B>ADDRESS</B> = Centerpoint, G-07, Jalan Dato Siamang Gagap, 70100 Seremban, Negeri Sembilan, Malaysia<BR><B>PHONE_NO</B> = <BR><B>LAT</B> = 2.7228658<BR><B>LONG</B> = 101.9553119]]></description>
+      <name><![CDATA[Kedai Ayamas@Centerpoint Seremban]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.9553119000,2.7228658000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Ayamas<BR><B>ADDRESS</B> = GF, Berjaya Megamall, 88, Jalan Tun Ismail, Sri Dagangan Bussiness Centre, 25000 Kuantan, Pahang, Malaysia<BR><B>PHONE_NO</B> = +60 9-508 8059<BR><B>LAT</B> = 3.815531<BR><B>LONG</B> = 103.330178]]></description>
+      <name>Ayamas</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>103.3301780000,3.8155310000,-999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Ayamas Jalan Air Putih (Kuantan)<BR><B>ADDRESS</B> = Kampung Air Puteh, 25300 Kuantan, Pahang, Malaysia<BR><B>PHONE_NO</B> = +60 19-350 9960<BR><B>LAT</B> = 3.8268177<BR><B>LONG</B> = 103.3359995]]></description>
+      <name>Ayamas Jalan Air Putih (Kuantan)</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>103.3359995000,3.8268177000,-999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Kedai Ayamas<BR><B>ADDRESS</B> = No. B-612, Ground Floor, Jalan Air Putih, 25300, Kuantan, Pahang, 25300 Kuantan, Malaysia<BR><B>PHONE_NO</B> = +60 9-566 4351<BR><B>LAT</B> = 3.8352464<BR><B>LONG</B> = 103.3366518]]></description>
+      <name>Kedai Ayamas</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>103.3366518000,3.8352464000,-999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Ayamas Kuantan Medical Centre<BR><B>ADDRESS</B> = Bandar Indera Mahkota, 25200 Kuantan, Pahang, Malaysia<BR><B>PHONE_NO</B> = +60 13-808 1200<BR><B>LAT</B> = 3.829339<BR><B>LONG</B> = 103.2991577]]></description>
+      <name>Ayamas Kuantan Medical Centre</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>103.2991577000,3.8293390000,-999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Kedai Ayamas<BR><B>ADDRESS</B> = 1, Jalan Ahmad Shah, Pusat Komersil Temerloh, 28000 Temerloh, Pahang, Malaysia<BR><B>PHONE_NO</B> = <BR><B>LAT</B> = 3.4500627<BR><B>LONG</B> = 102.4182265]]></description>
+      <name>Kedai Ayamas</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>102.4182265000,3.4500627000,-999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Ayamas Beserah<BR><B>ADDRESS</B> = Lot 1389, Jalan Kampung Baru, Kampung Seberang Cik Let, 26100 Kuantan, Pahang, Malaysia<BR><B>PHONE_NO</B> = +60 12-966 7488<BR><B>LAT</B> = 3.869451<BR><B>LONG</B> = 103.3662109]]></description>
+      <name>Ayamas Beserah</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>103.3662109000,3.8694510000,-999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Ayamas Food Corporation Bhd (Kuantan Depot)<BR><B>ADDRESS</B> = 5, Jalan IM 14/3, Kawasan Perindustrian 14, Bandar Indera Mahkota, Kuantan, 25200, Kuantan, Pahang, 25200, Malaysia<BR><B>PHONE_NO</B> = +60 9-508 2908<BR><B>LAT</B> = 3.816554<BR><B>LONG</B> = 103.287837]]></description>
+      <name>Ayamas Food Corporation Bhd (Kuantan Depot)</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>103.2878370000,3.8165540000,-999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Kedai Ayamas Sungai Nibong<BR><B>ADDRESS</B> = 755, Ground Floor, Jalan Sultan Azlan Shah, 11900 Bayan Lepas, Pulau Pinang, Malaysia<BR><B>PHONE_NO</B> = +60 19-350 8490<BR><B>LAT</B> = 5.3378027<BR><B>LONG</B> = 100.2982438]]></description>
+      <name>Kedai Ayamas Sungai Nibong</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>100.2982438000,5.3378027000,-999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Kedai Ayamas Sungai Dua Butterworth<BR><B>ADDRESS</B> = Lot 12, Ground& 1st Floor, Pusat Perniagaan, Lorong Perniagaan, 13800 Butterworth, Pulau Pinang, Malaysia<BR><B>PHONE_NO</B> = +60 19-350 7023<BR><B>LAT</B> = 5.444909<BR><B>LONG</B> = 100.4303038]]></description>
+      <name>Kedai Ayamas Sungai Dua Butterworth</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>100.4303038000,5.4449090000,-999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Kedai Ayamas @ Tronoh<BR><B>ADDRESS</B> = Jalan Maju Satu, Taman Maju, Seri Iskandar, 31750 Teronoh, Perak, Malaysia<BR><B>PHONE_NO</B> = +60 19-350 8564<BR><B>LAT</B> = 4.3648596<BR><B>LONG</B> = 100.9766697]]></description>
+      <name><![CDATA[Kedai Ayamas @ Tronoh]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>100.9766697000,4.3648596000,-999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Kedai Ayamas<BR><B>ADDRESS</B> = 14, Hala Pasar Baru, Taman Jubilee, 30300 Ipoh, Perak, Malaysia<BR><B>PHONE_NO</B> = +60 19-350 8763<BR><B>LAT</B> = 4.5946778<BR><B>LONG</B> = 101.0817021]]></description>
+      <name>Kedai Ayamas</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.0817021000,4.5946778000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Kedai Ayamas @Pasir Putih<BR><B>ADDRESS</B> = No. 7 Ground Floor Susuran, Persiaran Pasir Putih, Station 18, 31650 Ipoh, Perak, Malaysia<BR><B>PHONE_NO</B> = +60 12-554 4605<BR><B>LAT</B> = 4.5439687<BR><B>LONG</B> = 101.0718504]]></description>
+      <name><![CDATA[Kedai Ayamas @Pasir Putih]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.0718504000,4.5439687000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Ayamas Medan Gopeng<BR><B>ADDRESS</B> = No. 252, Jalan Raja Dr. Nazrin Shah, Kampung Gunung Rapat, 31350 Ipoh, Perak, Malaysia<BR><B>PHONE_NO</B> = +60 14-307 1061<BR><B>LAT</B> = 4.5709517<BR><B>LONG</B> = 101.1131769]]></description>
+      <name>Ayamas Medan Gopeng</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.1131769000,4.5709517000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Kafe Kedai Ayamas Tapah<BR><B>ADDRESS</B> = 87, Jalan Baldwin 3, Pusat Perniagaan Baldwin, 35000 Tapah, Perak, Malaysia<BR><B>PHONE_NO</B> = +60 5-401 3225<BR><B>LAT</B> = 4.1959777<BR><B>LONG</B> = 101.2632774]]></description>
+      <name>Kafe Kedai Ayamas Tapah</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.2632774000,4.1959777000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Kedai Ayamas Ulu Kinta<BR><B>ADDRESS</B> = No. 11, Lengkok Perpaduan 1, Taman Perpaduan, 31150 Ulu Kinta, Perak, Malaysia<BR><B>PHONE_NO</B> = <BR><B>LAT</B> = 4.6368535<BR><B>LONG</B> = 101.154377]]></description>
+      <name>Kedai Ayamas Ulu Kinta</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.1543770000,4.6368535000,-999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Kedai Ayamas<BR><B>ADDRESS</B> = Pusat Bandar Kangar, 01000 Kangar, Perlis, Malaysia<BR><B>PHONE_NO</B> = +60 1-300-88-2323<BR><B>LAT</B> = 6.4354694<BR><B>LONG</B> = 100.1940638]]></description>
+      <name>Kedai Ayamas</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>100.1940638000,6.4354694000,-999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Kedai Ayamas@Penampang<BR><B>ADDRESS</B> = Lot 10, Block 4, Plaza Utama, Jalan Penampang, 88300, Kota Kinabalu, Sabah, 88200, Malaysia<BR><B>PHONE_NO</B> = +60 19-623 4263<BR><B>LAT</B> = 5.9441211<BR><B>LONG</B> = 116.0818822]]></description>
+      <name><![CDATA[Kedai Ayamas@Penampang]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>116.0818822000,5.9441211000,-999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Kedai Ayamas@Menggatal<BR><B>ADDRESS</B> = No.4, Block S2D, Taman Indah Permai, Jalan Sepangar, 88400, Kota Kinabalu, Sabah, 88400, Malaysia<BR><B>PHONE_NO</B> = +60 19-623 3820<BR><B>LAT</B> = 6.051943<BR><B>LONG</B> = 116.159118]]></description>
+      <name><![CDATA[Kedai Ayamas@Menggatal]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>116.1591180000,6.0519430000,-999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Kedai Ayamas@Tawau<BR><B>ADDRESS</B> = No. 1, Jalan Dunlop, 91000, Tawau, Sabah, 91000, Malaysia<BR><B>PHONE_NO</B> = +60 19-350 6983<BR><B>LAT</B> = 4.243933<BR><B>LONG</B> = 117.88772]]></description>
+      <name><![CDATA[Kedai Ayamas@Tawau]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>117.8877200000,4.2439330000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Kedai Ayamas Klang<BR><B>ADDRESS</B> = 84, Jalan Nanas, Kawasan 18, 41400 Klang, Selangor, Malaysia<BR><B>PHONE_NO</B> = +60 19-623 4143<BR><B>LAT</B> = 3.0489193<BR><B>LONG</B> = 101.44528]]></description>
+      <name>Kedai Ayamas Klang</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.4452800000,3.0489193000,-999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Kedai Ayamas Dengkil<BR><B>ADDRESS</B> = Ground Floor, No. 17, Jalan Deluxe, Pusat Perdagangan Deluxe, 43800 Dengkil, Selangor, Malaysia<BR><B>PHONE_NO</B> = +60 19-351 3658<BR><B>LAT</B> = 2.8640646<BR><B>LONG</B> = 101.6756312]]></description>
+      <name>Kedai Ayamas Dengkil</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.6756312000,2.8640646000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Kedai Ayamas @Saujana Utama<BR><B>ADDRESS</B> = Lorong Elmina 3, Bandar Saujana Utama, 47000 Sungai Buloh, Selangor, Malaysia<BR><B>PHONE_NO</B> = +60 19-350 7518<BR><B>LAT</B> = 3.2008656<BR><B>LONG</B> = 101.4817922]]></description>
+      <name><![CDATA[Kedai Ayamas @Saujana Utama]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.4817922000,3.2008656000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Kiosk Ayamas SACC Mall<BR><B>ADDRESS</B> = LOT GF-1K16, Ground Floor, SACC Mall. 14, 9, Jalan Perbadanan, Seksyen 14, 40000 Shah Alam, Selangor, Malaysia<BR><B>PHONE_NO</B> = +60 19-335 9791<BR><B>LAT</B> = 3.0713935<BR><B>LONG</B> = 101.5181923]]></description>
+      <name>Kiosk Ayamas SACC Mall</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.5181923000,3.0713935000,-999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Kedai Ayamas Kajang Sri Jambu<BR><B>ADDRESS</B> = GF, No. 2, Jalan Sri Jambu, Taman Jambu, 43000 Kajang, Selangor, Malaysia<BR><B>PHONE_NO</B> = +60 3-8730 9944<BR><B>LAT</B> = 2.9931031<BR><B>LONG</B> = 101.7848311]]></description>
+      <name>Kedai Ayamas Kajang Sri Jambu</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.7848311000,2.9931031000,-999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Kedai Ayamas @Rawang<BR><B>ADDRESS</B> = No. 5, Jalan Bandar Rawang 15, Pusat Bandar Rawang, 48000 Rawang, Selangor, Malaysia<BR><B>PHONE_NO</B> = +60 19-350 8916<BR><B>LAT</B> = 3.320157<BR><B>LONG</B> = 101.577399]]></description>
+      <name><![CDATA[Kedai Ayamas @Rawang]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.5773990000,3.3201570000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Kedai Ayamas @ Seri Putra<BR><B>ADDRESS</B> = Jalan Seri Putra 4, 43000 Kajang, Selangor, Malaysia<BR><B>PHONE_NO</B> = +60 3-8925 2190<BR><B>LAT</B> = 2.8936995<BR><B>LONG</B> = 101.7782701]]></description>
+      <name><![CDATA[Kedai Ayamas @ Seri Putra]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.7782701000,2.8936995000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Ayamas Shoppe Sdn Bhd.<BR><B>ADDRESS</B> = 3, Jalan Pelukis U1/46A, Kawasan Perindustrian Temasya, 40150 Shah Alam, Selangor, Malaysia<BR><B>PHONE_NO</B> = +60 3-5569 7783<BR><B>LAT</B> = 3.0843873<BR><B>LONG</B> = 101.5727079]]></description>
+      <name>Ayamas Shoppe Sdn Bhd.</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.5727079000,3.0843873000,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Kedai Ayamas<BR><B>ADDRESS</B> = 6, Jalan Meru, Meru, 41050 Klang, Selangor, Malaysia<BR><B>PHONE_NO</B> = <BR><B>LAT</B> = 3.1143053<BR><B>LONG</B> = 101.4414478]]></description>
+      <name>Kedai Ayamas</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.4414478000,3.1143053000,-999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Kedai Ayamas @ Teluk Pulai<BR><B>ADDRESS</B> = 41100, Jalan Sungai Bertih, Taman Emas, 41100 Klang, Selangor, Malaysia<BR><B>PHONE_NO</B> = +60 19-351 3839<BR><B>LAT</B> = 3.0374023<BR><B>LONG</B> = 101.4247584]]></description>
+      <name><![CDATA[Kedai Ayamas @ Teluk Pulai]]></name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.4247584000,3.0374023000,-999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Roaster Express GM Klang<BR><B>ADDRESS</B> = B-G-157, Gm, Bandar Botanik, 41200 Klang, Selangor, Malaysia<BR><B>PHONE_NO</B> = <BR><B>LAT</B> = 2.9903021<BR><B>LONG</B> = 101.4482886]]></description>
+      <name>Roaster Express GM Klang</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.4482886000,2.9903021000,-999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Ayamas Port Klang<BR><B>ADDRESS</B> = 11614, Jalan Pelabuhan Klang Utara, Kawasan 14, 42000 Pelabuhan Klang, Selangor, Malaysia<BR><B>PHONE_NO</B> = <BR><B>LAT</B> = 3.0174507<BR><B>LONG</B> = 101.3856422]]></description>
+      <name>Ayamas Port Klang</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>101.3856422000,3.0174507000,-999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Restaurant<BR><BR><B>NAME</B> = Kedai Ayamas<BR><B>ADDRESS</B> = Jalan Banggol, 20100 Kuala Terengganu, Terengganu, Malaysia<BR><B>PHONE_NO</B> = +60 19-350 9716<BR><B>LAT</B> = 5.3311581<BR><B>LONG</B> = 103.1353006]]></description>
+      <name>Kedai Ayamas</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>103.1353006000,5.3311581000,-999999</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+</Document>
+</kml>

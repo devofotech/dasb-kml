@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+<Document>
+  <!-- Begin Style Definitions -->
+  <Style id="point1">
+    <IconStyle><Icon>kml_symbol_dot - red_0.png</Icon></IconStyle>
+  </Style>
+  <Folder>
+    <name>Point Features</name>
+    <description>Point Features</description>
+    <Placemark>
+      <description><![CDATA[Property<BR><BR><B>NAME</B> = Perjiranan 4<BR><B>ADDRESS</B> = Jalan Perjiranan 4, Bandar Dato Onn, Johor Bahru, Johor<BR><B>Latitude</B> = 1.563044<BR><B>Longitude</B> = 103.73434]]></description>
+      <name>Perjiranan 4</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>103.7343401349,1.5630435662,-999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Property<BR><BR><B>NAME</B> = Perjiranan 15<BR><B>ADDRESS</B> = Jalan Perjiranan 15, Bandar Dato Onn, Johor Bahru, Johor<BR><B>Latitude</B> = 1.568726<BR><B>Longitude</B> = 103.743943]]></description>
+      <name>Perjiranan 15</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>103.7439427500,1.5687259973,-999999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Property<BR><BR><B>NAME</B> = Larkin Town Centre<BR><B>ADDRESS</B> = Jalan Garoda 2, Taman Dato Onn Jaafar, Johor<BR><B>Latitude</B> = 1.495412<BR><B>Longitude</B> = 103.740657]]></description>
+      <name>Larkin Town Centre</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>103.7406564998,1.4954117903,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Property<BR><BR><B>NAME</B> = Taman Bukit Dahlia<BR><B>ADDRESS</B> = Jalan Seharum 5, Taman Bukit Dahlia, Pasir Gudang, Johor<BR><B>Latitude</B> = 1.483542<BR><B>Longitude</B> = 103.892346]]></description>
+      <name>Taman Bukit Dahlia</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>103.8923461836,1.4835421823,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Property<BR><BR><B>NAME</B> = Bandar Tiram<BR><B>ADDRESS</B> = Jalan Tiram, Ulu Tiram, Johor<BR><B>Latitude</B> = 1.616275<BR><B>Longitude</B> = 103.821903]]></description>
+      <name>Bandar Tiram</name>
+      <styleUrl>#point1</styleUrl>
+      <Point>
+        <coordinates>103.8219026113,1.6162754722,-999999</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+</Document>
+</kml>
