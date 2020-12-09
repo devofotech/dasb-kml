@@ -3,7 +3,7 @@
 <Document>
   <!-- Begin Style Definitions -->
   <Style id="point1">
-    <IconStyle><Icon>kml_symbol_dot - red_0.png</Icon></IconStyle>
+    <IconStyle><Icon><href>https://raw.githubusercontent.com/devofotech/dasb-kml/main/commercial-jland_2.png</href></Icon></IconStyle>
   </Style>
   <Folder>
     <name>Point Features</name>
